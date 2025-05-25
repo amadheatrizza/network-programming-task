@@ -1,0 +1,1668 @@
+2025-05-25 02:09:33,404 - INFO - Server pool size: 1
+2025-05-25 02:09:33,404 - INFO - Please restart the server with the appropriate pool size!
+2025-05-25 02:09:33,953 - INFO - UPLOAD test_file_10MB starting...
+2025-05-25 02:09:34,062 - INFO - Worker 0: UPLOAD successful in 0.11s
+2025-05-25 02:09:34,068 - INFO - UPLOAD test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:09:34,068 - INFO - UPLOAD test_file_10MB starting...
+2025-05-25 02:09:34,183 - INFO - Worker 2: UPLOAD successful in 0.11s
+2025-05-25 02:09:34,234 - INFO - Worker 1: UPLOAD successful in 0.16s
+2025-05-25 02:09:34,285 - INFO - Worker 3: UPLOAD successful in 0.21s
+2025-05-25 02:09:34,335 - INFO - Worker 0: UPLOAD successful in 0.26s
+2025-05-25 02:09:34,385 - INFO - Worker 4: UPLOAD successful in 0.31s
+2025-05-25 02:09:34,392 - INFO - UPLOAD test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:09:34,392 - INFO - UPLOAD test_file_10MB starting...
+2025-05-25 02:09:34,919 - INFO - Worker 9: UPLOAD successful in 0.50s
+2025-05-25 02:09:35,019 - INFO - Worker 8: UPLOAD successful in 0.60s
+2025-05-25 02:09:35,073 - INFO - Worker 5: UPLOAD successful in 0.65s
+2025-05-25 02:09:35,123 - INFO - Worker 1: UPLOAD successful in 0.70s
+2025-05-25 02:09:35,173 - INFO - Worker 13: UPLOAD successful in 0.75s
+2025-05-25 02:09:35,223 - INFO - Worker 7: UPLOAD successful in 0.80s
+2025-05-25 02:09:35,273 - INFO - Worker 4: UPLOAD successful in 0.85s
+2025-05-25 02:09:35,324 - INFO - Worker 10: UPLOAD successful in 0.90s
+2025-05-25 02:09:35,375 - INFO - Worker 18: UPLOAD successful in 0.94s
+2025-05-25 02:09:35,427 - INFO - Worker 11: UPLOAD successful in 1.00s
+2025-05-25 02:09:35,478 - INFO - Worker 17: UPLOAD successful in 1.05s
+2025-05-25 02:09:35,528 - INFO - Worker 3: UPLOAD successful in 1.11s
+2025-05-25 02:09:35,578 - INFO - Worker 6: UPLOAD successful in 1.16s
+2025-05-25 02:09:35,628 - INFO - Worker 39: UPLOAD successful in 1.10s
+2025-05-25 02:09:35,680 - INFO - Worker 38: UPLOAD successful in 1.15s
+2025-05-25 02:09:35,731 - INFO - Worker 41: UPLOAD successful in 1.20s
+2025-05-25 02:09:35,782 - INFO - Worker 42: UPLOAD successful in 1.24s
+2025-05-25 02:09:35,834 - INFO - Worker 19: UPLOAD successful in 1.39s
+2025-05-25 02:09:35,886 - INFO - Worker 31: UPLOAD successful in 1.40s
+2025-05-25 02:09:35,937 - INFO - Worker 20: UPLOAD successful in 1.49s
+2025-05-25 02:09:35,988 - INFO - Worker 43: UPLOAD successful in 1.44s
+2025-05-25 02:09:36,039 - INFO - Worker 25: UPLOAD successful in 1.57s
+2025-05-25 02:09:36,089 - INFO - Worker 16: UPLOAD successful in 1.66s
+2025-05-25 02:09:36,139 - INFO - Worker 29: UPLOAD successful in 1.66s
+2025-05-25 02:09:36,190 - INFO - Worker 2: UPLOAD successful in 1.77s
+2025-05-25 02:09:36,241 - INFO - Worker 35: UPLOAD successful in 1.73s
+2025-05-25 02:09:36,292 - INFO - Worker 12: UPLOAD successful in 1.87s
+2025-05-25 02:09:36,344 - INFO - Worker 14: UPLOAD successful in 1.92s
+2025-05-25 02:09:36,394 - INFO - Worker 34: UPLOAD successful in 1.89s
+2025-05-25 02:09:36,444 - INFO - Worker 15: UPLOAD successful in 2.02s
+2025-05-25 02:09:36,494 - INFO - Worker 30: UPLOAD successful in 2.01s
+2025-05-25 02:09:36,546 - INFO - Worker 46: UPLOAD successful in 1.97s
+2025-05-25 02:09:36,597 - INFO - Worker 26: UPLOAD successful in 2.12s
+2025-05-25 02:09:36,649 - INFO - Worker 47: UPLOAD successful in 2.07s
+2025-05-25 02:09:36,701 - INFO - Worker 32: UPLOAD successful in 2.21s
+2025-05-25 02:09:36,752 - INFO - Worker 45: UPLOAD successful in 2.19s
+2025-05-25 02:09:36,803 - INFO - Worker 44: UPLOAD successful in 2.24s
+2025-05-25 02:09:36,854 - INFO - Worker 28: UPLOAD successful in 2.38s
+2025-05-25 02:09:36,907 - INFO - Worker 36: UPLOAD successful in 2.39s
+2025-05-25 02:09:36,959 - INFO - Worker 23: UPLOAD successful in 2.50s
+2025-05-25 02:09:37,011 - INFO - Worker 0: UPLOAD successful in 2.59s
+2025-05-25 02:09:37,062 - INFO - Worker 49: UPLOAD successful in 2.46s
+2025-05-25 02:09:37,115 - INFO - Worker 40: UPLOAD successful in 2.58s
+2025-05-25 02:09:37,169 - INFO - Worker 27: UPLOAD successful in 2.69s
+2025-05-25 02:09:37,221 - INFO - Worker 33: UPLOAD successful in 2.72s
+2025-05-25 02:09:37,271 - INFO - Worker 48: UPLOAD successful in 2.68s
+2025-05-25 02:09:37,322 - INFO - Worker 21: UPLOAD successful in 2.88s
+2025-05-25 02:09:37,373 - INFO - Worker 22: UPLOAD successful in 2.92s
+2025-05-25 02:09:37,425 - INFO - Worker 24: UPLOAD successful in 2.96s
+2025-05-25 02:09:37,477 - INFO - Worker 37: UPLOAD successful in 2.95s
+2025-05-25 02:09:37,512 - INFO - UPLOAD test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:09:37,636 - INFO - UPLOAD test_file_50MB starting...
+2025-05-25 02:09:38,229 - INFO - Worker 0: UPLOAD successful in 0.59s
+2025-05-25 02:09:38,250 - INFO - UPLOAD test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:09:38,250 - INFO - UPLOAD test_file_50MB starting...
+2025-05-25 02:09:38,933 - INFO - Worker 0: UPLOAD successful in 0.68s
+2025-05-25 02:09:39,336 - INFO - Worker 4: UPLOAD successful in 1.08s
+2025-05-25 02:09:39,716 - INFO - Worker 3: UPLOAD successful in 1.46s
+2025-05-25 02:09:40,091 - INFO - Worker 1: UPLOAD successful in 1.84s
+2025-05-25 02:09:40,461 - INFO - Worker 2: UPLOAD successful in 2.21s
+2025-05-25 02:09:40,485 - INFO - UPLOAD test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:09:40,485 - INFO - UPLOAD test_file_50MB starting...
+2025-05-25 02:09:41,316 - INFO - Worker 3: UPLOAD successful in 0.82s
+2025-05-25 02:09:41,689 - INFO - Worker 6: UPLOAD successful in 1.20s
+2025-05-25 02:09:42,060 - INFO - Worker 0: UPLOAD successful in 1.57s
+2025-05-25 02:09:42,434 - INFO - Worker 1: UPLOAD successful in 1.94s
+2025-05-25 02:09:42,800 - INFO - Worker 4: UPLOAD successful in 2.31s
+2025-05-25 02:09:43,176 - INFO - Worker 5: UPLOAD successful in 2.68s
+2025-05-25 02:09:43,548 - INFO - Worker 8: UPLOAD successful in 3.05s
+2025-05-25 02:09:43,911 - INFO - Worker 9: UPLOAD successful in 3.42s
+2025-05-25 02:09:44,284 - INFO - Worker 2: UPLOAD successful in 3.79s
+2025-05-25 02:09:44,676 - INFO - Worker 7: UPLOAD successful in 4.18s
+2025-05-25 02:09:45,577 - INFO - Worker 18: UPLOAD successful in 0.89s
+2025-05-25 02:09:45,966 - INFO - Worker 15: UPLOAD successful in 1.28s
+2025-05-25 02:09:46,362 - INFO - Worker 17: UPLOAD successful in 1.68s
+2025-05-25 02:09:46,742 - INFO - Worker 13: UPLOAD successful in 2.06s
+2025-05-25 02:09:47,116 - INFO - Worker 12: UPLOAD successful in 2.43s
+2025-05-25 02:09:47,479 - INFO - Worker 11: UPLOAD successful in 2.80s
+2025-05-25 02:09:47,849 - INFO - Worker 10: UPLOAD successful in 3.17s
+2025-05-25 02:09:48,271 - INFO - Worker 19: UPLOAD successful in 3.59s
+2025-05-25 02:09:48,659 - INFO - Worker 14: UPLOAD successful in 3.97s
+2025-05-25 02:09:49,040 - INFO - Worker 16: UPLOAD successful in 4.36s
+2025-05-25 02:09:49,888 - INFO - Worker 27: UPLOAD successful in 0.84s
+2025-05-25 02:09:50,269 - INFO - Worker 23: UPLOAD successful in 1.22s
+2025-05-25 02:09:50,644 - INFO - Worker 26: UPLOAD successful in 1.60s
+2025-05-25 02:09:51,012 - INFO - Worker 20: UPLOAD successful in 1.97s
+2025-05-25 02:09:51,385 - INFO - Worker 21: UPLOAD successful in 2.34s
+2025-05-25 02:09:51,754 - INFO - Worker 24: UPLOAD successful in 2.71s
+2025-05-25 02:09:52,130 - INFO - Worker 22: UPLOAD successful in 3.08s
+2025-05-25 02:09:52,503 - INFO - Worker 25: UPLOAD successful in 3.46s
+2025-05-25 02:09:52,872 - INFO - Worker 29: UPLOAD successful in 3.82s
+2025-05-25 02:09:53,247 - INFO - Worker 28: UPLOAD successful in 4.20s
+2025-05-25 02:09:54,116 - INFO - Worker 35: UPLOAD successful in 0.86s
+2025-05-25 02:09:54,491 - INFO - Worker 39: UPLOAD successful in 1.24s
+2025-05-25 02:09:54,860 - INFO - Worker 32: UPLOAD successful in 1.61s
+2025-05-25 02:09:55,236 - INFO - Worker 34: UPLOAD successful in 1.98s
+2025-05-25 02:09:55,606 - INFO - Worker 31: UPLOAD successful in 2.35s
+2025-05-25 02:09:55,999 - INFO - Worker 37: UPLOAD successful in 2.74s
+2025-05-25 02:09:56,387 - INFO - Worker 30: UPLOAD successful in 3.13s
+2025-05-25 02:09:56,783 - INFO - Worker 36: UPLOAD successful in 3.53s
+2025-05-25 02:09:57,159 - INFO - Worker 33: UPLOAD successful in 3.90s
+2025-05-25 02:09:57,524 - INFO - Worker 38: UPLOAD successful in 4.27s
+2025-05-25 02:09:58,364 - INFO - Worker 46: UPLOAD successful in 0.83s
+2025-05-25 02:09:58,742 - INFO - Worker 41: UPLOAD successful in 1.21s
+2025-05-25 02:09:59,113 - INFO - Worker 40: UPLOAD successful in 1.58s
+2025-05-25 02:09:59,482 - INFO - Worker 47: UPLOAD successful in 1.95s
+2025-05-25 02:09:59,851 - INFO - Worker 45: UPLOAD successful in 2.32s
+2025-05-25 02:10:00,221 - INFO - Worker 44: UPLOAD successful in 2.69s
+2025-05-25 02:10:00,593 - INFO - Worker 42: UPLOAD successful in 3.06s
+2025-05-25 02:10:00,966 - INFO - Worker 49: UPLOAD successful in 3.44s
+2025-05-25 02:10:01,335 - INFO - Worker 48: UPLOAD successful in 3.80s
+2025-05-25 02:10:01,699 - INFO - Worker 43: UPLOAD successful in 4.17s
+2025-05-25 02:10:01,733 - INFO - UPLOAD test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:10:01,980 - INFO - UPLOAD test_file_100MB starting...
+2025-05-25 02:10:03,391 - INFO - Worker 0: UPLOAD successful in 1.41s
+2025-05-25 02:10:03,427 - INFO - UPLOAD test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:10:03,428 - INFO - UPLOAD test_file_100MB starting...
+2025-05-25 02:10:04,919 - INFO - Worker 3: UPLOAD successful in 1.49s
+2025-05-25 02:10:05,872 - INFO - Worker 0: UPLOAD successful in 2.44s
+2025-05-25 02:10:06,833 - INFO - Worker 1: UPLOAD successful in 3.40s
+2025-05-25 02:10:07,781 - INFO - Worker 2: UPLOAD successful in 4.35s
+2025-05-25 02:10:08,737 - INFO - Worker 4: UPLOAD successful in 5.30s
+2025-05-25 02:10:08,779 - INFO - UPLOAD test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:10:08,779 - INFO - UPLOAD test_file_100MB starting...
+2025-05-25 02:10:10,584 - INFO - Worker 5: UPLOAD successful in 1.80s
+2025-05-25 02:10:11,532 - INFO - Worker 4: UPLOAD successful in 2.75s
+2025-05-25 02:10:12,472 - INFO - Worker 1: UPLOAD successful in 3.69s
+2025-05-25 02:10:13,436 - INFO - Worker 2: UPLOAD successful in 4.65s
+2025-05-25 02:10:14,385 - INFO - Worker 3: UPLOAD successful in 5.60s
+2025-05-25 02:10:15,336 - INFO - Worker 9: UPLOAD successful in 6.55s
+2025-05-25 02:10:16,271 - INFO - Worker 7: UPLOAD successful in 7.48s
+2025-05-25 02:10:17,235 - INFO - Worker 8: UPLOAD successful in 8.45s
+2025-05-25 02:10:18,187 - INFO - Worker 6: UPLOAD successful in 9.40s
+2025-05-25 02:10:19,131 - INFO - Worker 0: UPLOAD successful in 10.34s
+2025-05-25 02:10:20,993 - INFO - Worker 15: UPLOAD successful in 1.85s
+2025-05-25 02:10:21,942 - INFO - Worker 18: UPLOAD successful in 2.80s
+2025-05-25 02:10:22,877 - INFO - Worker 16: UPLOAD successful in 3.73s
+2025-05-25 02:10:23,818 - INFO - Worker 13: UPLOAD successful in 4.68s
+2025-05-25 02:10:24,765 - INFO - Worker 12: UPLOAD successful in 5.62s
+2025-05-25 02:10:25,714 - INFO - Worker 11: UPLOAD successful in 6.57s
+2025-05-25 02:10:26,660 - INFO - Worker 14: UPLOAD successful in 7.52s
+2025-05-25 02:10:27,606 - INFO - Worker 19: UPLOAD successful in 8.46s
+2025-05-25 02:10:28,558 - INFO - Worker 17: UPLOAD successful in 9.42s
+2025-05-25 02:10:29,504 - INFO - Worker 10: UPLOAD successful in 10.36s
+2025-05-25 02:10:31,354 - INFO - Worker 26: UPLOAD successful in 1.84s
+2025-05-25 02:10:32,307 - INFO - Worker 22: UPLOAD successful in 2.79s
+2025-05-25 02:10:33,251 - INFO - Worker 24: UPLOAD successful in 3.74s
+2025-05-25 02:10:34,195 - INFO - Worker 23: UPLOAD successful in 4.68s
+2025-05-25 02:10:35,153 - INFO - Worker 27: UPLOAD successful in 5.64s
+2025-05-25 02:10:36,095 - INFO - Worker 28: UPLOAD successful in 6.58s
+2025-05-25 02:10:37,032 - INFO - Worker 29: UPLOAD successful in 7.52s
+2025-05-25 02:10:37,975 - INFO - Worker 20: UPLOAD successful in 8.46s
+2025-05-25 02:10:38,926 - INFO - Worker 21: UPLOAD successful in 9.41s
+2025-05-25 02:10:39,864 - INFO - Worker 25: UPLOAD successful in 10.35s
+2025-05-25 02:10:41,712 - INFO - Worker 32: UPLOAD successful in 1.84s
+2025-05-25 02:10:42,665 - INFO - Worker 30: UPLOAD successful in 2.79s
+2025-05-25 02:10:43,604 - INFO - Worker 34: UPLOAD successful in 3.73s
+2025-05-25 02:10:44,555 - INFO - Worker 33: UPLOAD successful in 4.68s
+2025-05-25 02:10:45,504 - INFO - Worker 36: UPLOAD successful in 5.63s
+2025-05-25 02:10:46,448 - INFO - Worker 39: UPLOAD successful in 6.57s
+2025-05-25 02:10:47,400 - INFO - Worker 31: UPLOAD successful in 7.53s
+2025-05-25 02:10:48,345 - INFO - Worker 37: UPLOAD successful in 8.47s
+2025-05-25 02:10:49,304 - INFO - Worker 35: UPLOAD successful in 9.43s
+2025-05-25 02:10:50,259 - INFO - Worker 38: UPLOAD successful in 10.38s
+2025-05-25 02:10:52,115 - INFO - Worker 43: UPLOAD successful in 1.85s
+2025-05-25 02:10:53,051 - INFO - Worker 40: UPLOAD successful in 2.78s
+2025-05-25 02:10:53,994 - INFO - Worker 44: UPLOAD successful in 3.72s
+2025-05-25 02:10:54,952 - INFO - Worker 49: UPLOAD successful in 4.68s
+2025-05-25 02:10:55,898 - INFO - Worker 41: UPLOAD successful in 5.63s
+2025-05-25 02:10:56,837 - INFO - Worker 48: UPLOAD successful in 6.57s
+2025-05-25 02:10:57,783 - INFO - Worker 46: UPLOAD successful in 7.51s
+2025-05-25 02:10:58,729 - INFO - Worker 45: UPLOAD successful in 8.46s
+2025-05-25 02:10:59,682 - INFO - Worker 47: UPLOAD successful in 9.41s
+2025-05-25 02:11:00,636 - INFO - Worker 42: UPLOAD successful in 10.37s
+2025-05-25 02:11:00,696 - INFO - UPLOAD test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:11:00,775 - INFO - Worker 0: UPLOAD successful in 0.08s
+2025-05-25 02:11:00,776 - INFO - DOWNLOAD test_file_10MB starting...
+2025-05-25 02:11:00,792 - INFO - Worker 0: DOWNLOAD successful in 0.01s
+2025-05-25 02:11:00,795 - INFO - DOWNLOAD test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:11:00,869 - INFO - Worker 0: UPLOAD successful in 0.07s
+2025-05-25 02:11:00,870 - INFO - DOWNLOAD test_file_10MB starting...
+2025-05-25 02:11:00,895 - INFO - Worker 0: DOWNLOAD successful in 0.01s
+2025-05-25 02:11:00,903 - INFO - Worker 1: DOWNLOAD successful in 0.02s
+2025-05-25 02:11:00,912 - INFO - Worker 2: DOWNLOAD successful in 0.03s
+2025-05-25 02:11:00,921 - INFO - Worker 3: DOWNLOAD successful in 0.04s
+2025-05-25 02:11:01,097 - INFO - Worker 4: DOWNLOAD successful in 0.21s
+2025-05-25 02:11:01,101 - INFO - DOWNLOAD test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:11:01,171 - INFO - Worker 0: UPLOAD successful in 0.07s
+2025-05-25 02:11:01,173 - INFO - DOWNLOAD test_file_10MB starting...
+2025-05-25 02:11:01,240 - INFO - Worker 2: DOWNLOAD successful in 0.02s
+2025-05-25 02:11:01,250 - INFO - Worker 0: DOWNLOAD successful in 0.03s
+2025-05-25 02:11:01,261 - INFO - Worker 1: DOWNLOAD successful in 0.04s
+2025-05-25 02:11:01,271 - INFO - Worker 18: DOWNLOAD successful in 0.05s
+2025-05-25 02:11:01,281 - INFO - Worker 19: DOWNLOAD successful in 0.06s
+2025-05-25 02:11:01,290 - INFO - Worker 20: DOWNLOAD successful in 0.07s
+2025-05-25 02:11:01,301 - INFO - Worker 22: DOWNLOAD successful in 0.08s
+2025-05-25 02:11:01,313 - INFO - Worker 23: DOWNLOAD successful in 0.09s
+2025-05-25 02:11:01,323 - INFO - Worker 24: DOWNLOAD successful in 0.10s
+2025-05-25 02:11:01,333 - INFO - Worker 25: DOWNLOAD successful in 0.11s
+2025-05-25 02:11:01,343 - INFO - Worker 26: DOWNLOAD successful in 0.12s
+2025-05-25 02:11:01,354 - INFO - Worker 27: DOWNLOAD successful in 0.13s
+2025-05-25 02:11:01,364 - INFO - Worker 28: DOWNLOAD successful in 0.14s
+2025-05-25 02:11:01,372 - INFO - Worker 29: DOWNLOAD successful in 0.15s
+2025-05-25 02:11:01,381 - INFO - Worker 30: DOWNLOAD successful in 0.16s
+2025-05-25 02:11:01,390 - INFO - Worker 31: DOWNLOAD successful in 0.17s
+2025-05-25 02:11:01,400 - INFO - Worker 33: DOWNLOAD successful in 0.18s
+2025-05-25 02:11:01,411 - INFO - Worker 35: DOWNLOAD successful in 0.19s
+2025-05-25 02:11:01,420 - INFO - Worker 34: DOWNLOAD successful in 0.20s
+2025-05-25 02:11:01,429 - INFO - Worker 36: DOWNLOAD successful in 0.20s
+2025-05-25 02:11:01,439 - INFO - Worker 37: DOWNLOAD successful in 0.21s
+2025-05-25 02:11:01,447 - INFO - Worker 38: DOWNLOAD successful in 0.22s
+2025-05-25 02:11:01,456 - INFO - Worker 39: DOWNLOAD successful in 0.23s
+2025-05-25 02:11:01,465 - INFO - Worker 41: DOWNLOAD successful in 0.24s
+2025-05-25 02:11:01,474 - INFO - Worker 42: DOWNLOAD successful in 0.25s
+2025-05-25 02:11:01,484 - INFO - Worker 40: DOWNLOAD successful in 0.26s
+2025-05-25 02:11:01,495 - INFO - Worker 43: DOWNLOAD successful in 0.27s
+2025-05-25 02:11:01,504 - INFO - Worker 44: DOWNLOAD successful in 0.28s
+2025-05-25 02:11:01,514 - INFO - Worker 45: DOWNLOAD successful in 0.29s
+2025-05-25 02:11:01,522 - INFO - Worker 46: DOWNLOAD successful in 0.30s
+2025-05-25 02:11:01,532 - INFO - Worker 47: DOWNLOAD successful in 0.31s
+2025-05-25 02:11:01,542 - INFO - Worker 48: DOWNLOAD successful in 0.32s
+2025-05-25 02:11:01,550 - INFO - Worker 49: DOWNLOAD successful in 0.32s
+2025-05-25 02:11:02,280 - INFO - Worker 11: DOWNLOAD successful in 1.06s
+2025-05-25 02:11:02,288 - INFO - Worker 8: DOWNLOAD successful in 1.07s
+2025-05-25 02:11:02,298 - INFO - Worker 21: DOWNLOAD successful in 1.07s
+2025-05-25 02:11:02,307 - INFO - Worker 6: DOWNLOAD successful in 1.09s
+2025-05-25 02:11:02,487 - INFO - Worker 9: DOWNLOAD successful in 1.27s
+2025-05-25 02:11:03,304 - INFO - Worker 32: DOWNLOAD successful in 2.08s
+2025-05-25 02:11:03,320 - INFO - DOWNLOAD test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:11:03,879 - INFO - Worker 0: UPLOAD successful in 0.56s
+2025-05-25 02:11:03,887 - INFO - DOWNLOAD test_file_50MB starting...
+2025-05-25 02:11:03,908 - INFO - Worker 0: DOWNLOAD successful in 0.01s
+2025-05-25 02:11:03,915 - INFO - DOWNLOAD test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:11:04,463 - INFO - Worker 0: UPLOAD successful in 0.55s
+2025-05-25 02:11:04,471 - INFO - DOWNLOAD test_file_50MB starting...
+2025-05-25 02:11:04,507 - INFO - Worker 0: DOWNLOAD successful in 0.01s
+2025-05-25 02:11:04,519 - INFO - Worker 1: DOWNLOAD successful in 0.02s
+2025-05-25 02:11:04,528 - INFO - Worker 2: DOWNLOAD successful in 0.03s
+2025-05-25 02:11:05,545 - INFO - Worker 3: DOWNLOAD successful in 1.05s
+2025-05-25 02:11:05,555 - INFO - Worker 4: DOWNLOAD successful in 1.06s
+2025-05-25 02:11:05,562 - INFO - DOWNLOAD test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:11:06,105 - INFO - Worker 0: UPLOAD successful in 0.54s
+2025-05-25 02:11:06,112 - INFO - DOWNLOAD test_file_50MB starting...
+2025-05-25 02:11:06,156 - INFO - Worker 0: DOWNLOAD successful in 0.01s
+2025-05-25 02:11:06,166 - INFO - Worker 1: DOWNLOAD successful in 0.02s
+2025-05-25 02:11:06,177 - INFO - Worker 2: DOWNLOAD successful in 0.03s
+2025-05-25 02:11:06,187 - INFO - Worker 3: DOWNLOAD successful in 0.04s
+2025-05-25 02:11:06,197 - INFO - Worker 6: DOWNLOAD successful in 0.05s
+2025-05-25 02:11:06,206 - INFO - Worker 8: DOWNLOAD successful in 0.06s
+2025-05-25 02:11:06,217 - INFO - Worker 7: DOWNLOAD successful in 0.08s
+2025-05-25 02:11:06,227 - INFO - Worker 9: DOWNLOAD successful in 0.08s
+2025-05-25 02:11:07,209 - INFO - Worker 4: DOWNLOAD successful in 1.07s
+2025-05-25 02:11:07,219 - INFO - Worker 5: DOWNLOAD successful in 1.08s
+2025-05-25 02:11:07,228 - INFO - Worker 10: DOWNLOAD successful in 0.01s
+2025-05-25 02:11:07,235 - INFO - Worker 11: DOWNLOAD successful in 0.02s
+2025-05-25 02:11:07,241 - INFO - Worker 12: DOWNLOAD successful in 0.02s
+2025-05-25 02:11:07,248 - INFO - Worker 13: DOWNLOAD successful in 0.03s
+2025-05-25 02:11:07,255 - INFO - Worker 14: DOWNLOAD successful in 0.04s
+2025-05-25 02:11:07,261 - INFO - Worker 15: DOWNLOAD successful in 0.04s
+2025-05-25 02:11:07,268 - INFO - Worker 18: DOWNLOAD successful in 0.05s
+2025-05-25 02:11:08,230 - INFO - Worker 16: DOWNLOAD successful in 1.01s
+2025-05-25 02:11:08,236 - INFO - Worker 19: DOWNLOAD successful in 1.02s
+2025-05-25 02:11:08,439 - INFO - Worker 21: DOWNLOAD successful in 0.01s
+2025-05-25 02:11:08,445 - INFO - Worker 20: DOWNLOAD successful in 0.02s
+2025-05-25 02:11:08,451 - INFO - Worker 23: DOWNLOAD successful in 0.02s
+2025-05-25 02:11:08,458 - INFO - Worker 26: DOWNLOAD successful in 0.03s
+2025-05-25 02:11:08,465 - INFO - Worker 29: DOWNLOAD successful in 0.04s
+2025-05-25 02:11:08,645 - INFO - Worker 22: DOWNLOAD successful in 0.22s
+2025-05-25 02:11:09,446 - INFO - Worker 28: DOWNLOAD successful in 1.02s
+2025-05-25 02:11:09,452 - INFO - Worker 27: DOWNLOAD successful in 1.02s
+2025-05-25 02:11:09,459 - INFO - Worker 24: DOWNLOAD successful in 1.03s
+2025-05-25 02:11:09,654 - INFO - Worker 25: DOWNLOAD successful in 1.22s
+2025-05-25 02:11:09,663 - INFO - Worker 30: DOWNLOAD successful in 0.01s
+2025-05-25 02:11:09,670 - INFO - Worker 31: DOWNLOAD successful in 0.02s
+2025-05-25 02:11:09,675 - INFO - Worker 32: DOWNLOAD successful in 0.02s
+2025-05-25 02:11:09,681 - INFO - Worker 35: DOWNLOAD successful in 0.03s
+2025-05-25 02:11:09,687 - INFO - Worker 37: DOWNLOAD successful in 0.03s
+2025-05-25 02:11:09,693 - INFO - Worker 39: DOWNLOAD successful in 0.04s
+2025-05-25 02:11:10,725 - INFO - Worker 34: DOWNLOAD successful in 1.07s
+2025-05-25 02:11:10,732 - INFO - Worker 38: DOWNLOAD successful in 1.08s
+2025-05-25 02:11:10,739 - INFO - Worker 36: DOWNLOAD successful in 1.08s
+2025-05-25 02:11:10,933 - INFO - Worker 33: DOWNLOAD successful in 1.28s
+2025-05-25 02:11:10,942 - INFO - Worker 41: DOWNLOAD successful in 0.01s
+2025-05-25 02:11:10,949 - INFO - Worker 42: DOWNLOAD successful in 0.01s
+2025-05-25 02:11:10,955 - INFO - Worker 40: DOWNLOAD successful in 0.02s
+2025-05-25 02:11:10,961 - INFO - Worker 46: DOWNLOAD successful in 0.03s
+2025-05-25 02:11:12,006 - INFO - Worker 45: DOWNLOAD successful in 1.07s
+2025-05-25 02:11:12,012 - INFO - Worker 44: DOWNLOAD successful in 1.08s
+2025-05-25 02:11:12,017 - INFO - Worker 49: DOWNLOAD successful in 1.08s
+2025-05-25 02:11:12,213 - INFO - DOWNLOAD test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:11:13,521 - INFO - Worker 0: UPLOAD successful in 1.31s
+2025-05-25 02:11:13,544 - INFO - DOWNLOAD test_file_100MB starting...
+2025-05-25 02:11:13,562 - INFO - Worker 0: DOWNLOAD successful in 0.01s
+2025-05-25 02:11:13,569 - INFO - DOWNLOAD test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:11:14,879 - INFO - Worker 0: UPLOAD successful in 1.31s
+2025-05-25 02:11:14,902 - INFO - DOWNLOAD test_file_100MB starting...
+2025-05-25 02:11:14,935 - INFO - Worker 1: DOWNLOAD successful in 0.01s
+2025-05-25 02:11:14,946 - INFO - Worker 0: DOWNLOAD successful in 0.02s
+2025-05-25 02:11:14,956 - INFO - Worker 2: DOWNLOAD successful in 0.03s
+2025-05-25 02:11:14,965 - INFO - Worker 4: DOWNLOAD successful in 0.04s
+2025-05-25 02:11:15,977 - INFO - Worker 3: DOWNLOAD successful in 1.05s
+2025-05-25 02:11:15,984 - INFO - DOWNLOAD test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:11:17,298 - INFO - Worker 0: UPLOAD successful in 1.31s
+2025-05-25 02:11:17,320 - INFO - DOWNLOAD test_file_100MB starting...
+2025-05-25 02:11:17,366 - INFO - Worker 0: DOWNLOAD successful in 0.01s
+2025-05-25 02:11:17,378 - INFO - Worker 1: DOWNLOAD successful in 0.03s
+2025-05-25 02:11:17,387 - INFO - Worker 2: DOWNLOAD successful in 0.03s
+2025-05-25 02:11:17,396 - INFO - Worker 4: DOWNLOAD successful in 0.04s
+2025-05-25 02:11:17,406 - INFO - Worker 3: DOWNLOAD successful in 0.05s
+2025-05-25 02:11:17,415 - INFO - Worker 5: DOWNLOAD successful in 0.06s
+2025-05-25 02:11:17,425 - INFO - Worker 7: DOWNLOAD successful in 0.07s
+2025-05-25 02:11:17,435 - INFO - Worker 8: DOWNLOAD successful in 0.08s
+2025-05-25 02:11:17,444 - INFO - Worker 9: DOWNLOAD successful in 0.09s
+2025-05-25 02:11:18,407 - INFO - Worker 6: DOWNLOAD successful in 1.05s
+2025-05-25 02:11:18,418 - INFO - Worker 11: DOWNLOAD successful in 0.01s
+2025-05-25 02:11:18,425 - INFO - Worker 10: DOWNLOAD successful in 0.02s
+2025-05-25 02:11:18,430 - INFO - Worker 12: DOWNLOAD successful in 0.02s
+2025-05-25 02:11:18,437 - INFO - Worker 16: DOWNLOAD successful in 0.03s
+2025-05-25 02:11:18,443 - INFO - Worker 15: DOWNLOAD successful in 0.03s
+2025-05-25 02:11:18,450 - INFO - Worker 19: DOWNLOAD successful in 0.04s
+2025-05-25 02:11:18,622 - INFO - Worker 17: DOWNLOAD successful in 0.21s
+2025-05-25 02:11:19,430 - INFO - Worker 13: DOWNLOAD successful in 1.02s
+2025-05-25 02:11:19,436 - INFO - Worker 14: DOWNLOAD successful in 1.03s
+2025-05-25 02:11:19,445 - INFO - Worker 21: DOWNLOAD successful in 0.01s
+2025-05-25 02:11:19,451 - INFO - Worker 20: DOWNLOAD successful in 0.02s
+2025-05-25 02:11:19,457 - INFO - Worker 22: DOWNLOAD successful in 0.02s
+2025-05-25 02:11:19,462 - INFO - Worker 23: DOWNLOAD successful in 0.03s
+2025-05-25 02:11:19,469 - INFO - Worker 24: DOWNLOAD successful in 0.03s
+2025-05-25 02:11:19,474 - INFO - Worker 25: DOWNLOAD successful in 0.04s
+2025-05-25 02:11:20,454 - INFO - Worker 29: DOWNLOAD successful in 1.02s
+2025-05-25 02:11:20,459 - INFO - Worker 27: DOWNLOAD successful in 1.02s
+2025-05-25 02:11:20,465 - INFO - Worker 28: DOWNLOAD successful in 1.03s
+2025-05-25 02:11:20,471 - INFO - Worker 26: DOWNLOAD successful in 1.03s
+2025-05-25 02:11:20,481 - INFO - Worker 30: DOWNLOAD successful in 0.01s
+2025-05-25 02:11:20,487 - INFO - Worker 31: DOWNLOAD successful in 0.01s
+2025-05-25 02:11:20,492 - INFO - Worker 32: DOWNLOAD successful in 0.02s
+2025-05-25 02:11:20,498 - INFO - Worker 33: DOWNLOAD successful in 0.03s
+2025-05-25 02:11:20,505 - INFO - Worker 37: DOWNLOAD successful in 0.03s
+2025-05-25 02:11:21,541 - INFO - Worker 39: DOWNLOAD successful in 1.07s
+2025-05-25 02:11:21,548 - INFO - Worker 34: DOWNLOAD successful in 1.08s
+2025-05-25 02:11:21,553 - INFO - Worker 38: DOWNLOAD successful in 1.08s
+2025-05-25 02:11:21,749 - INFO - Worker 35: DOWNLOAD successful in 1.28s
+2025-05-25 02:11:21,759 - INFO - Worker 40: DOWNLOAD successful in 0.01s
+2025-05-25 02:11:21,765 - INFO - Worker 41: DOWNLOAD successful in 0.02s
+2025-05-25 02:11:21,772 - INFO - Worker 42: DOWNLOAD successful in 0.02s
+2025-05-25 02:11:21,777 - INFO - Worker 43: DOWNLOAD successful in 0.03s
+2025-05-25 02:11:21,783 - INFO - Worker 44: DOWNLOAD successful in 0.03s
+2025-05-25 02:11:21,788 - INFO - Worker 49: DOWNLOAD successful in 0.04s
+2025-05-25 02:11:21,965 - INFO - Worker 48: DOWNLOAD successful in 0.22s
+2025-05-25 02:11:22,822 - INFO - Worker 47: DOWNLOAD successful in 1.07s
+2025-05-25 02:11:22,828 - INFO - Worker 46: DOWNLOAD successful in 1.08s
+2025-05-25 02:11:22,834 - INFO - Worker 45: DOWNLOAD successful in 1.08s
+2025-05-25 02:11:22,843 - INFO - DOWNLOAD test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:11:22,843 - INFO - LIST test_file_10MB starting...
+2025-05-25 02:11:22,848 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:11:22,851 - INFO - LIST test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:11:22,852 - INFO - LIST test_file_10MB starting...
+2025-05-25 02:11:22,866 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:11:22,866 - INFO - Worker 1: LIST successful in 0.00s
+2025-05-25 02:11:22,867 - INFO - Worker 3: LIST successful in 0.00s
+2025-05-25 02:11:22,867 - INFO - Worker 4: LIST successful in 0.00s
+2025-05-25 02:11:23,901 - INFO - Worker 2: LIST successful in 1.04s
+2025-05-25 02:11:23,908 - INFO - LIST test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:11:23,909 - INFO - LIST test_file_10MB starting...
+2025-05-25 02:11:24,026 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:11:24,028 - INFO - Worker 1: LIST successful in 0.00s
+2025-05-25 02:11:24,029 - INFO - Worker 2: LIST successful in 0.00s
+2025-05-25 02:11:24,029 - INFO - Worker 3: LIST successful in 0.00s
+2025-05-25 02:11:24,030 - INFO - Worker 4: LIST successful in 0.01s
+2025-05-25 02:11:24,031 - INFO - Worker 5: LIST successful in 0.01s
+2025-05-25 02:11:24,032 - INFO - Worker 6: LIST successful in 0.01s
+2025-05-25 02:11:24,033 - INFO - Worker 9: LIST successful in 0.01s
+2025-05-25 02:11:24,033 - INFO - Worker 8: LIST successful in 0.01s
+2025-05-25 02:11:24,034 - INFO - Worker 10: LIST successful in 0.01s
+2025-05-25 02:11:24,035 - INFO - Worker 11: LIST successful in 0.01s
+2025-05-25 02:11:24,036 - INFO - Worker 12: LIST successful in 0.01s
+2025-05-25 02:11:24,036 - INFO - Worker 13: LIST successful in 0.01s
+2025-05-25 02:11:24,037 - INFO - Worker 15: LIST successful in 0.01s
+2025-05-25 02:11:24,038 - INFO - Worker 16: LIST successful in 0.01s
+2025-05-25 02:11:24,039 - INFO - Worker 18: LIST successful in 0.01s
+2025-05-25 02:11:24,039 - INFO - Worker 19: LIST successful in 0.01s
+2025-05-25 02:11:24,040 - INFO - Worker 20: LIST successful in 0.01s
+2025-05-25 02:11:24,041 - INFO - Worker 21: LIST successful in 0.02s
+2025-05-25 02:11:24,042 - INFO - Worker 22: LIST successful in 0.02s
+2025-05-25 02:11:24,042 - INFO - Worker 23: LIST successful in 0.02s
+2025-05-25 02:11:24,043 - INFO - Worker 24: LIST successful in 0.02s
+2025-05-25 02:11:24,044 - INFO - Worker 25: LIST successful in 0.02s
+2025-05-25 02:11:24,044 - INFO - Worker 26: LIST successful in 0.02s
+2025-05-25 02:11:24,045 - INFO - Worker 27: LIST successful in 0.02s
+2025-05-25 02:11:24,046 - INFO - Worker 28: LIST successful in 0.02s
+2025-05-25 02:11:24,046 - INFO - Worker 29: LIST successful in 0.02s
+2025-05-25 02:11:24,047 - INFO - Worker 30: LIST successful in 0.02s
+2025-05-25 02:11:24,048 - INFO - Worker 31: LIST successful in 0.02s
+2025-05-25 02:11:24,049 - INFO - Worker 32: LIST successful in 0.02s
+2025-05-25 02:11:24,049 - INFO - Worker 37: LIST successful in 0.02s
+2025-05-25 02:11:24,050 - INFO - Worker 35: LIST successful in 0.02s
+2025-05-25 02:11:24,050 - INFO - Worker 34: LIST successful in 0.02s
+2025-05-25 02:11:24,051 - INFO - Worker 36: LIST successful in 0.02s
+2025-05-25 02:11:24,052 - INFO - Worker 38: LIST successful in 0.02s
+2025-05-25 02:11:24,053 - INFO - Worker 39: LIST successful in 0.03s
+2025-05-25 02:11:24,054 - INFO - Worker 40: LIST successful in 0.03s
+2025-05-25 02:11:24,055 - INFO - Worker 43: LIST successful in 0.03s
+2025-05-25 02:11:24,055 - INFO - Worker 41: LIST successful in 0.03s
+2025-05-25 02:11:24,056 - INFO - Worker 45: LIST successful in 0.03s
+2025-05-25 02:11:24,057 - INFO - Worker 42: LIST successful in 0.03s
+2025-05-25 02:11:24,058 - INFO - Worker 44: LIST successful in 0.03s
+2025-05-25 02:11:24,058 - INFO - Worker 46: LIST successful in 0.03s
+2025-05-25 02:11:24,059 - INFO - Worker 47: LIST successful in 0.03s
+2025-05-25 02:11:24,060 - INFO - Worker 48: LIST successful in 0.03s
+2025-05-25 02:11:24,060 - INFO - Worker 49: LIST successful in 0.03s
+2025-05-25 02:11:24,229 - INFO - Worker 33: LIST successful in 0.20s
+2025-05-25 02:11:25,053 - INFO - Worker 14: LIST successful in 1.03s
+2025-05-25 02:11:25,054 - INFO - Worker 7: LIST successful in 1.03s
+2025-05-25 02:11:25,055 - INFO - Worker 17: LIST successful in 1.03s
+2025-05-25 02:11:25,075 - INFO - LIST test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:11:25,076 - INFO - LIST test_file_50MB starting...
+2025-05-25 02:11:25,081 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:11:25,085 - INFO - LIST test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:11:25,085 - INFO - LIST test_file_50MB starting...
+2025-05-25 02:11:25,100 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:11:25,101 - INFO - Worker 2: LIST successful in 0.00s
+2025-05-25 02:11:25,102 - INFO - Worker 4: LIST successful in 0.00s
+2025-05-25 02:11:25,103 - INFO - Worker 3: LIST successful in 0.00s
+2025-05-25 02:11:25,104 - INFO - Worker 1: LIST successful in 0.00s
+2025-05-25 02:11:25,108 - INFO - LIST test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:11:25,108 - INFO - LIST test_file_50MB starting...
+2025-05-25 02:11:25,134 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:11:25,135 - INFO - Worker 1: LIST successful in 0.00s
+2025-05-25 02:11:25,136 - INFO - Worker 3: LIST successful in 0.00s
+2025-05-25 02:11:25,137 - INFO - Worker 5: LIST successful in 0.00s
+2025-05-25 02:11:25,137 - INFO - Worker 6: LIST successful in 0.00s
+2025-05-25 02:11:25,138 - INFO - Worker 9: LIST successful in 0.00s
+2025-05-25 02:11:25,341 - INFO - Worker 2: LIST successful in 0.21s
+2025-05-25 02:11:26,142 - INFO - Worker 7: LIST successful in 1.01s
+2025-05-25 02:11:26,143 - INFO - Worker 4: LIST successful in 1.01s
+2025-05-25 02:11:26,143 - INFO - Worker 8: LIST successful in 1.01s
+2025-05-25 02:11:26,145 - INFO - Worker 10: LIST successful in 0.00s
+2025-05-25 02:11:26,146 - INFO - Worker 11: LIST successful in 0.00s
+2025-05-25 02:11:26,146 - INFO - Worker 12: LIST successful in 0.00s
+2025-05-25 02:11:26,147 - INFO - Worker 13: LIST successful in 0.00s
+2025-05-25 02:11:26,148 - INFO - Worker 15: LIST successful in 0.00s
+2025-05-25 02:11:26,149 - INFO - Worker 14: LIST successful in 0.00s
+2025-05-25 02:11:26,349 - INFO - Worker 17: LIST successful in 0.20s
+2025-05-25 02:11:27,165 - INFO - Worker 18: LIST successful in 1.02s
+2025-05-25 02:11:27,166 - INFO - Worker 16: LIST successful in 1.02s
+2025-05-25 02:11:27,167 - INFO - Worker 19: LIST successful in 1.02s
+2025-05-25 02:11:27,168 - INFO - Worker 20: LIST successful in 0.00s
+2025-05-25 02:11:27,169 - INFO - Worker 21: LIST successful in 0.00s
+2025-05-25 02:11:27,170 - INFO - Worker 22: LIST successful in 0.00s
+2025-05-25 02:11:27,171 - INFO - Worker 23: LIST successful in 0.00s
+2025-05-25 02:11:27,171 - INFO - Worker 24: LIST successful in 0.00s
+2025-05-25 02:11:27,172 - INFO - Worker 29: LIST successful in 0.00s
+2025-05-25 02:11:28,190 - INFO - Worker 27: LIST successful in 1.02s
+2025-05-25 02:11:28,190 - INFO - Worker 28: LIST successful in 1.02s
+2025-05-25 02:11:28,191 - INFO - Worker 26: LIST successful in 1.02s
+2025-05-25 02:11:28,192 - INFO - Worker 25: LIST successful in 1.02s
+2025-05-25 02:11:28,193 - INFO - Worker 30: LIST successful in 0.00s
+2025-05-25 02:11:28,194 - INFO - Worker 31: LIST successful in 0.00s
+2025-05-25 02:11:28,194 - INFO - Worker 32: LIST successful in 0.00s
+2025-05-25 02:11:28,195 - INFO - Worker 34: LIST successful in 0.00s
+2025-05-25 02:11:28,196 - INFO - Worker 36: LIST successful in 0.00s
+2025-05-25 02:11:28,196 - INFO - Worker 35: LIST successful in 0.00s
+2025-05-25 02:11:28,197 - INFO - Worker 37: LIST successful in 0.00s
+2025-05-25 02:11:29,213 - INFO - Worker 38: LIST successful in 1.02s
+2025-05-25 02:11:29,214 - INFO - Worker 33: LIST successful in 1.02s
+2025-05-25 02:11:29,215 - INFO - Worker 39: LIST successful in 1.02s
+2025-05-25 02:11:29,216 - INFO - Worker 40: LIST successful in 0.00s
+2025-05-25 02:11:29,217 - INFO - Worker 41: LIST successful in 0.00s
+2025-05-25 02:11:29,218 - INFO - Worker 42: LIST successful in 0.00s
+2025-05-25 02:11:29,219 - INFO - Worker 43: LIST successful in 0.00s
+2025-05-25 02:11:29,219 - INFO - Worker 44: LIST successful in 0.00s
+2025-05-25 02:11:29,220 - INFO - Worker 45: LIST successful in 0.00s
+2025-05-25 02:11:29,421 - INFO - Worker 46: LIST successful in 0.21s
+2025-05-25 02:11:30,237 - INFO - Worker 49: LIST successful in 1.02s
+2025-05-25 02:11:30,238 - INFO - Worker 47: LIST successful in 1.02s
+2025-05-25 02:11:30,239 - INFO - Worker 48: LIST successful in 1.02s
+2025-05-25 02:11:30,246 - INFO - LIST test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:11:30,246 - INFO - LIST test_file_100MB starting...
+2025-05-25 02:11:30,251 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:11:30,254 - INFO - LIST test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:11:30,254 - INFO - LIST test_file_100MB starting...
+2025-05-25 02:11:30,269 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:11:30,269 - INFO - Worker 1: LIST successful in 0.00s
+2025-05-25 02:11:30,270 - INFO - Worker 2: LIST successful in 0.00s
+2025-05-25 02:11:30,271 - INFO - Worker 4: LIST successful in 0.00s
+2025-05-25 02:11:30,271 - INFO - Worker 3: LIST successful in 0.00s
+2025-05-25 02:11:30,275 - INFO - LIST test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:11:30,276 - INFO - LIST test_file_100MB starting...
+2025-05-25 02:11:30,301 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:11:30,301 - INFO - Worker 1: LIST successful in 0.00s
+2025-05-25 02:11:30,302 - INFO - Worker 2: LIST successful in 0.00s
+2025-05-25 02:11:30,303 - INFO - Worker 3: LIST successful in 0.00s
+2025-05-25 02:11:30,304 - INFO - Worker 4: LIST successful in 0.00s
+2025-05-25 02:11:30,304 - INFO - Worker 5: LIST successful in 0.01s
+2025-05-25 02:11:30,305 - INFO - Worker 6: LIST successful in 0.01s
+2025-05-25 02:11:30,306 - INFO - Worker 7: LIST successful in 0.01s
+2025-05-25 02:11:30,306 - INFO - Worker 9: LIST successful in 0.01s
+2025-05-25 02:11:30,307 - INFO - Worker 8: LIST successful in 0.01s
+2025-05-25 02:11:30,309 - INFO - Worker 10: LIST successful in 0.00s
+2025-05-25 02:11:30,310 - INFO - Worker 11: LIST successful in 0.00s
+2025-05-25 02:11:30,310 - INFO - Worker 13: LIST successful in 0.00s
+2025-05-25 02:11:30,311 - INFO - Worker 12: LIST successful in 0.00s
+2025-05-25 02:11:30,311 - INFO - Worker 14: LIST successful in 0.00s
+2025-05-25 02:11:30,312 - INFO - Worker 19: LIST successful in 0.00s
+2025-05-25 02:11:30,517 - INFO - Worker 18: LIST successful in 0.21s
+2025-05-25 02:11:31,325 - INFO - Worker 16: LIST successful in 1.02s
+2025-05-25 02:11:31,326 - INFO - Worker 17: LIST successful in 1.02s
+2025-05-25 02:11:31,327 - INFO - Worker 15: LIST successful in 1.02s
+2025-05-25 02:11:31,329 - INFO - Worker 20: LIST successful in 0.00s
+2025-05-25 02:11:31,330 - INFO - Worker 21: LIST successful in 0.00s
+2025-05-25 02:11:31,330 - INFO - Worker 22: LIST successful in 0.00s
+2025-05-25 02:11:31,331 - INFO - Worker 23: LIST successful in 0.00s
+2025-05-25 02:11:31,332 - INFO - Worker 24: LIST successful in 0.00s
+2025-05-25 02:11:31,332 - INFO - Worker 26: LIST successful in 0.00s
+2025-05-25 02:11:31,333 - INFO - Worker 27: LIST successful in 0.01s
+2025-05-25 02:11:31,532 - ERROR - Worker 29: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:11:31,533 - INFO - Worker 28: LIST successful in 0.21s
+2025-05-25 02:11:32,350 - INFO - Worker 25: LIST successful in 1.02s
+2025-05-25 02:11:32,352 - INFO - Worker 30: LIST successful in 0.00s
+2025-05-25 02:11:32,352 - INFO - Worker 31: LIST successful in 0.00s
+2025-05-25 02:11:32,353 - INFO - Worker 32: LIST successful in 0.00s
+2025-05-25 02:11:32,354 - INFO - Worker 33: LIST successful in 0.00s
+2025-05-25 02:11:32,354 - INFO - Worker 34: LIST successful in 0.00s
+2025-05-25 02:11:32,355 - INFO - Worker 37: LIST successful in 0.00s
+2025-05-25 02:11:32,355 - INFO - Worker 39: LIST successful in 0.00s
+2025-05-25 02:11:32,356 - INFO - Worker 38: LIST successful in 0.01s
+2025-05-25 02:11:33,373 - INFO - Worker 35: LIST successful in 1.02s
+2025-05-25 02:11:33,374 - INFO - Worker 36: LIST successful in 1.02s
+2025-05-25 02:11:33,376 - INFO - Worker 40: LIST successful in 0.00s
+2025-05-25 02:11:33,377 - INFO - Worker 41: LIST successful in 0.00s
+2025-05-25 02:11:33,377 - INFO - Worker 42: LIST successful in 0.00s
+2025-05-25 02:11:33,378 - INFO - Worker 43: LIST successful in 0.00s
+2025-05-25 02:11:33,378 - INFO - Worker 44: LIST successful in 0.00s
+2025-05-25 02:11:33,379 - INFO - Worker 45: LIST successful in 0.00s
+2025-05-25 02:11:34,398 - INFO - Worker 49: LIST successful in 1.02s
+2025-05-25 02:11:34,398 - INFO - Worker 47: LIST successful in 1.02s
+2025-05-25 02:11:34,399 - INFO - Worker 46: LIST successful in 1.02s
+2025-05-25 02:11:34,400 - INFO - Worker 48: LIST successful in 1.02s
+2025-05-25 02:11:34,407 - INFO - LIST test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:11:34,407 - INFO - Server pool size: 5
+2025-05-25 02:11:34,407 - INFO - Please restart the server with the appropriate pool size!
+2025-05-25 02:12:41,863 - INFO - UPLOAD test_file_10MB starting...
+2025-05-25 02:12:41,973 - INFO - Worker 0: UPLOAD successful in 0.10s
+2025-05-25 02:12:41,983 - INFO - UPLOAD test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:12:41,983 - INFO - UPLOAD test_file_10MB starting...
+2025-05-25 02:12:42,133 - INFO - Worker 4: UPLOAD successful in 0.14s
+2025-05-25 02:12:42,145 - INFO - Worker 2: UPLOAD successful in 0.15s
+2025-05-25 02:12:42,147 - INFO - Worker 1: UPLOAD successful in 0.15s
+2025-05-25 02:12:42,150 - INFO - Worker 3: UPLOAD successful in 0.15s
+2025-05-25 02:12:42,151 - INFO - Worker 0: UPLOAD successful in 0.15s
+2025-05-25 02:12:42,162 - INFO - UPLOAD test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:12:42,163 - INFO - UPLOAD test_file_10MB starting...
+2025-05-25 02:12:42,886 - INFO - Worker 6: UPLOAD successful in 0.61s
+2025-05-25 02:12:42,972 - INFO - Worker 8: UPLOAD successful in 0.69s
+2025-05-25 02:12:42,986 - INFO - Worker 13: UPLOAD successful in 0.71s
+2025-05-25 02:12:42,986 - INFO - Worker 12: UPLOAD successful in 0.71s
+2025-05-25 02:12:43,008 - INFO - Worker 11: UPLOAD successful in 0.73s
+2025-05-25 02:12:43,046 - INFO - Worker 10: UPLOAD successful in 0.77s
+2025-05-25 02:12:43,059 - INFO - Worker 9: UPLOAD successful in 0.78s
+2025-05-25 02:12:43,066 - INFO - Worker 2: UPLOAD successful in 0.79s
+2025-05-25 02:12:43,070 - INFO - Worker 0: UPLOAD successful in 0.79s
+2025-05-25 02:12:43,089 - INFO - Worker 28: UPLOAD successful in 0.75s
+2025-05-25 02:12:43,126 - INFO - Worker 26: UPLOAD successful in 0.80s
+2025-05-25 02:12:43,140 - INFO - Worker 25: UPLOAD successful in 0.82s
+2025-05-25 02:12:43,145 - INFO - Worker 1: UPLOAD successful in 0.87s
+2025-05-25 02:12:43,148 - INFO - Worker 21: UPLOAD successful in 0.84s
+2025-05-25 02:12:43,164 - INFO - Worker 15: UPLOAD successful in 0.88s
+2025-05-25 02:12:43,207 - INFO - Worker 22: UPLOAD successful in 0.90s
+2025-05-25 02:12:43,215 - INFO - Worker 17: UPLOAD successful in 0.93s
+2025-05-25 02:12:43,225 - INFO - Worker 24: UPLOAD successful in 0.91s
+2025-05-25 02:12:43,233 - INFO - Worker 44: UPLOAD successful in 0.81s
+2025-05-25 02:12:43,245 - INFO - Worker 39: UPLOAD successful in 0.85s
+2025-05-25 02:12:43,285 - INFO - Worker 7: UPLOAD successful in 1.01s
+2025-05-25 02:12:43,297 - INFO - Worker 30: UPLOAD successful in 0.95s
+2025-05-25 02:12:43,301 - INFO - Worker 5: UPLOAD successful in 1.02s
+2025-05-25 02:12:43,314 - INFO - Worker 33: UPLOAD successful in 0.95s
+2025-05-25 02:12:43,324 - INFO - Worker 32: UPLOAD successful in 0.96s
+2025-05-25 02:12:43,366 - INFO - Worker 16: UPLOAD successful in 1.08s
+2025-05-25 02:12:43,373 - INFO - Worker 41: UPLOAD successful in 0.96s
+2025-05-25 02:12:43,378 - INFO - Worker 19: UPLOAD successful in 1.08s
+2025-05-25 02:12:43,397 - INFO - Worker 20: UPLOAD successful in 1.09s
+2025-05-25 02:12:43,400 - INFO - Worker 27: UPLOAD successful in 1.07s
+2025-05-25 02:12:43,445 - INFO - Worker 14: UPLOAD successful in 1.16s
+2025-05-25 02:12:43,452 - INFO - Worker 18: UPLOAD successful in 1.15s
+2025-05-25 02:12:43,454 - INFO - Worker 37: UPLOAD successful in 1.07s
+2025-05-25 02:12:43,481 - INFO - Worker 43: UPLOAD successful in 1.06s
+2025-05-25 02:12:43,485 - INFO - Worker 31: UPLOAD successful in 1.13s
+2025-05-25 02:12:43,530 - INFO - Worker 45: UPLOAD successful in 1.10s
+2025-05-25 02:12:43,536 - INFO - Worker 36: UPLOAD successful in 1.15s
+2025-05-25 02:12:43,540 - INFO - Worker 23: UPLOAD successful in 1.23s
+2025-05-25 02:12:43,558 - INFO - Worker 42: UPLOAD successful in 1.14s
+2025-05-25 02:12:43,567 - INFO - Worker 29: UPLOAD successful in 1.22s
+2025-05-25 02:12:43,608 - INFO - Worker 46: UPLOAD successful in 1.17s
+2025-05-25 02:12:43,617 - INFO - Worker 40: UPLOAD successful in 1.21s
+2025-05-25 02:12:43,618 - INFO - Worker 35: UPLOAD successful in 1.25s
+2025-05-25 02:12:43,634 - INFO - Worker 38: UPLOAD successful in 1.25s
+2025-05-25 02:12:43,644 - INFO - Worker 47: UPLOAD successful in 1.20s
+2025-05-25 02:12:43,681 - INFO - Worker 48: UPLOAD successful in 1.23s
+2025-05-25 02:12:43,683 - INFO - Worker 3: UPLOAD successful in 1.41s
+2025-05-25 02:12:43,685 - INFO - Worker 4: UPLOAD successful in 1.41s
+2025-05-25 02:12:43,958 - INFO - Worker 49: UPLOAD successful in 1.50s
+2025-05-25 02:12:43,958 - INFO - Worker 34: UPLOAD successful in 1.59s
+2025-05-25 02:12:44,023 - INFO - UPLOAD test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:12:44,023 - INFO - UPLOAD test_file_50MB starting...
+2025-05-25 02:12:44,605 - INFO - Worker 0: UPLOAD successful in 0.58s
+2025-05-25 02:12:44,624 - INFO - UPLOAD test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:12:44,624 - INFO - UPLOAD test_file_50MB starting...
+2025-05-25 02:12:45,525 - INFO - Worker 4: UPLOAD successful in 0.88s
+2025-05-25 02:12:45,533 - INFO - Worker 2: UPLOAD successful in 0.89s
+2025-05-25 02:12:45,544 - INFO - Worker 3: UPLOAD successful in 0.90s
+2025-05-25 02:12:45,546 - INFO - Worker 0: UPLOAD successful in 0.90s
+2025-05-25 02:12:45,548 - INFO - Worker 1: UPLOAD successful in 0.90s
+2025-05-25 02:12:45,572 - INFO - UPLOAD test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:12:45,572 - INFO - UPLOAD test_file_50MB starting...
+2025-05-25 02:12:46,763 - INFO - Worker 8: UPLOAD successful in 1.16s
+2025-05-25 02:12:46,763 - INFO - Worker 5: UPLOAD successful in 1.17s
+2025-05-25 02:12:46,771 - INFO - Worker 1: UPLOAD successful in 1.17s
+2025-05-25 02:12:46,782 - INFO - Worker 2: UPLOAD successful in 1.18s
+2025-05-25 02:12:46,791 - INFO - Worker 3: UPLOAD successful in 1.19s
+2025-05-25 02:12:47,376 - INFO - Worker 7: UPLOAD successful in 1.78s
+2025-05-25 02:12:47,380 - INFO - Worker 9: UPLOAD successful in 1.78s
+2025-05-25 02:12:47,382 - INFO - Worker 0: UPLOAD successful in 1.78s
+2025-05-25 02:12:47,384 - INFO - Worker 4: UPLOAD successful in 1.79s
+2025-05-25 02:12:47,398 - INFO - Worker 6: UPLOAD successful in 1.80s
+2025-05-25 02:12:48,469 - INFO - Worker 11: UPLOAD successful in 1.06s
+2025-05-25 02:12:48,476 - INFO - Worker 17: UPLOAD successful in 1.07s
+2025-05-25 02:12:48,486 - INFO - Worker 15: UPLOAD successful in 1.08s
+2025-05-25 02:12:48,489 - INFO - Worker 19: UPLOAD successful in 1.08s
+2025-05-25 02:12:48,498 - INFO - Worker 18: UPLOAD successful in 1.09s
+2025-05-25 02:12:49,067 - INFO - Worker 10: UPLOAD successful in 1.66s
+2025-05-25 02:12:49,089 - INFO - Worker 16: UPLOAD successful in 1.68s
+2025-05-25 02:12:49,097 - INFO - Worker 14: UPLOAD successful in 1.69s
+2025-05-25 02:12:49,104 - INFO - Worker 13: UPLOAD successful in 1.70s
+2025-05-25 02:12:49,110 - INFO - Worker 12: UPLOAD successful in 1.71s
+2025-05-25 02:12:50,201 - INFO - Worker 22: UPLOAD successful in 1.09s
+2025-05-25 02:12:50,202 - INFO - Worker 29: UPLOAD successful in 1.09s
+2025-05-25 02:12:50,204 - INFO - Worker 24: UPLOAD successful in 1.09s
+2025-05-25 02:12:50,210 - INFO - Worker 21: UPLOAD successful in 1.09s
+2025-05-25 02:12:50,211 - INFO - Worker 26: UPLOAD successful in 1.09s
+2025-05-25 02:12:50,811 - INFO - Worker 20: UPLOAD successful in 1.69s
+2025-05-25 02:12:50,813 - INFO - Worker 23: UPLOAD successful in 1.70s
+2025-05-25 02:12:50,822 - INFO - Worker 28: UPLOAD successful in 1.71s
+2025-05-25 02:12:50,823 - INFO - Worker 25: UPLOAD successful in 1.71s
+2025-05-25 02:12:50,823 - INFO - Worker 27: UPLOAD successful in 1.71s
+2025-05-25 02:12:51,900 - INFO - Worker 39: UPLOAD successful in 1.07s
+2025-05-25 02:12:51,902 - INFO - Worker 38: UPLOAD successful in 1.07s
+2025-05-25 02:12:51,905 - INFO - Worker 36: UPLOAD successful in 1.07s
+2025-05-25 02:12:51,916 - INFO - Worker 31: UPLOAD successful in 1.09s
+2025-05-25 02:12:51,919 - INFO - Worker 30: UPLOAD successful in 1.09s
+2025-05-25 02:12:52,501 - INFO - Worker 32: UPLOAD successful in 1.67s
+2025-05-25 02:12:52,510 - INFO - Worker 33: UPLOAD successful in 1.68s
+2025-05-25 02:12:52,517 - INFO - Worker 34: UPLOAD successful in 1.69s
+2025-05-25 02:12:52,528 - INFO - Worker 35: UPLOAD successful in 1.70s
+2025-05-25 02:12:52,536 - INFO - Worker 37: UPLOAD successful in 1.71s
+2025-05-25 02:12:53,607 - INFO - Worker 40: UPLOAD successful in 1.07s
+2025-05-25 02:12:53,611 - INFO - Worker 49: UPLOAD successful in 1.07s
+2025-05-25 02:12:53,611 - INFO - Worker 45: UPLOAD successful in 1.07s
+2025-05-25 02:12:53,619 - INFO - Worker 48: UPLOAD successful in 1.08s
+2025-05-25 02:12:53,628 - INFO - Worker 46: UPLOAD successful in 1.09s
+2025-05-25 02:12:54,235 - INFO - Worker 44: UPLOAD successful in 1.69s
+2025-05-25 02:12:54,238 - INFO - Worker 43: UPLOAD successful in 1.70s
+2025-05-25 02:12:54,240 - INFO - Worker 42: UPLOAD successful in 1.70s
+2025-05-25 02:12:54,249 - INFO - Worker 47: UPLOAD successful in 1.71s
+2025-05-25 02:12:54,250 - INFO - Worker 41: UPLOAD successful in 1.71s
+2025-05-25 02:12:54,285 - INFO - UPLOAD test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:12:54,285 - INFO - UPLOAD test_file_100MB starting...
+2025-05-25 02:12:55,698 - INFO - Worker 0: UPLOAD successful in 1.41s
+2025-05-25 02:12:55,733 - INFO - UPLOAD test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:12:55,734 - INFO - UPLOAD test_file_100MB starting...
+2025-05-25 02:12:57,957 - INFO - Worker 1: UPLOAD successful in 2.20s
+2025-05-25 02:12:57,961 - INFO - Worker 4: UPLOAD successful in 2.20s
+2025-05-25 02:12:57,968 - INFO - Worker 3: UPLOAD successful in 2.21s
+2025-05-25 02:12:57,968 - INFO - Worker 0: UPLOAD successful in 2.21s
+2025-05-25 02:12:57,980 - INFO - Worker 2: UPLOAD successful in 2.22s
+2025-05-25 02:12:58,023 - INFO - UPLOAD test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:12:58,023 - INFO - UPLOAD test_file_100MB starting...
+2025-05-25 02:13:00,773 - INFO - Worker 7: UPLOAD successful in 2.71s
+2025-05-25 02:13:00,793 - INFO - Worker 3: UPLOAD successful in 2.73s
+2025-05-25 02:13:00,798 - INFO - Worker 0: UPLOAD successful in 2.74s
+2025-05-25 02:13:00,799 - INFO - Worker 5: UPLOAD successful in 2.74s
+2025-05-25 02:13:00,817 - INFO - Worker 4: UPLOAD successful in 2.76s
+2025-05-25 02:13:02,440 - INFO - Worker 9: UPLOAD successful in 4.38s
+2025-05-25 02:13:02,500 - INFO - Worker 1: UPLOAD successful in 4.44s
+2025-05-25 02:13:02,502 - INFO - Worker 2: UPLOAD successful in 4.44s
+2025-05-25 02:13:02,503 - INFO - Worker 8: UPLOAD successful in 4.44s
+2025-05-25 02:13:02,519 - INFO - Worker 6: UPLOAD successful in 4.46s
+2025-05-25 02:13:04,921 - INFO - Worker 10: UPLOAD successful in 2.38s
+2025-05-25 02:13:04,990 - INFO - Worker 15: UPLOAD successful in 2.45s
+2025-05-25 02:13:04,992 - INFO - Worker 13: UPLOAD successful in 2.45s
+2025-05-25 02:13:04,994 - INFO - Worker 14: UPLOAD successful in 2.46s
+2025-05-25 02:13:04,994 - INFO - Worker 18: UPLOAD successful in 2.46s
+2025-05-25 02:13:06,427 - INFO - Worker 17: UPLOAD successful in 3.89s
+2025-05-25 02:13:06,524 - INFO - Worker 12: UPLOAD successful in 3.99s
+2025-05-25 02:13:06,532 - INFO - Worker 16: UPLOAD successful in 3.99s
+2025-05-25 02:13:06,532 - INFO - Worker 11: UPLOAD successful in 3.99s
+2025-05-25 02:13:06,543 - INFO - Worker 19: UPLOAD successful in 4.01s
+2025-05-25 02:13:09,027 - INFO - Worker 29: UPLOAD successful in 2.46s
+2025-05-25 02:13:09,045 - INFO - Worker 28: UPLOAD successful in 2.48s
+2025-05-25 02:13:09,061 - INFO - Worker 22: UPLOAD successful in 2.50s
+2025-05-25 02:13:09,127 - INFO - Worker 24: UPLOAD successful in 2.56s
+2025-05-25 02:13:09,128 - INFO - Worker 25: UPLOAD successful in 2.56s
+2025-05-25 02:13:10,549 - INFO - Worker 27: UPLOAD successful in 3.99s
+2025-05-25 02:13:10,566 - INFO - Worker 23: UPLOAD successful in 4.00s
+2025-05-25 02:13:10,579 - INFO - Worker 26: UPLOAD successful in 4.02s
+2025-05-25 02:13:10,632 - INFO - Worker 21: UPLOAD successful in 4.07s
+2025-05-25 02:13:10,634 - INFO - Worker 20: UPLOAD successful in 4.07s
+2025-05-25 02:13:13,076 - INFO - Worker 37: UPLOAD successful in 2.42s
+2025-05-25 02:13:13,085 - INFO - Worker 36: UPLOAD successful in 2.43s
+2025-05-25 02:13:13,111 - INFO - Worker 38: UPLOAD successful in 2.46s
+2025-05-25 02:13:13,120 - INFO - Worker 39: UPLOAD successful in 2.47s
+2025-05-25 02:13:13,124 - INFO - Worker 33: UPLOAD successful in 2.47s
+2025-05-25 02:13:14,626 - INFO - Worker 35: UPLOAD successful in 3.97s
+2025-05-25 02:13:14,652 - INFO - Worker 32: UPLOAD successful in 4.00s
+2025-05-25 02:13:14,667 - INFO - Worker 30: UPLOAD successful in 4.01s
+2025-05-25 02:13:14,684 - INFO - Worker 31: UPLOAD successful in 4.03s
+2025-05-25 02:13:14,699 - INFO - Worker 34: UPLOAD successful in 4.05s
+2025-05-25 02:13:17,126 - INFO - Worker 49: UPLOAD successful in 2.41s
+2025-05-25 02:13:17,132 - INFO - Worker 48: UPLOAD successful in 2.41s
+2025-05-25 02:13:17,151 - INFO - Worker 43: UPLOAD successful in 2.43s
+2025-05-25 02:13:17,157 - INFO - Worker 46: UPLOAD successful in 2.44s
+2025-05-25 02:13:17,163 - INFO - Worker 45: UPLOAD successful in 2.44s
+2025-05-25 02:13:18,637 - INFO - Worker 44: UPLOAD successful in 3.92s
+2025-05-25 02:13:18,644 - INFO - Worker 47: UPLOAD successful in 3.92s
+2025-05-25 02:13:18,663 - INFO - Worker 41: UPLOAD successful in 3.94s
+2025-05-25 02:13:18,671 - INFO - Worker 42: UPLOAD successful in 3.95s
+2025-05-25 02:13:18,675 - INFO - Worker 40: UPLOAD successful in 3.96s
+2025-05-25 02:13:18,725 - INFO - UPLOAD test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:13:18,790 - INFO - Worker 0: UPLOAD successful in 0.06s
+2025-05-25 02:13:18,790 - INFO - DOWNLOAD test_file_10MB starting...
+2025-05-25 02:13:18,808 - INFO - Worker 0: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:18,815 - INFO - DOWNLOAD test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:13:18,881 - INFO - Worker 0: UPLOAD successful in 0.07s
+2025-05-25 02:13:18,881 - INFO - DOWNLOAD test_file_10MB starting...
+2025-05-25 02:13:18,916 - INFO - Worker 0: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:18,917 - INFO - Worker 3: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:18,917 - INFO - Worker 1: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:18,918 - INFO - Worker 4: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:18,919 - INFO - Worker 2: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:18,926 - INFO - DOWNLOAD test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:13:18,996 - INFO - Worker 0: UPLOAD successful in 0.07s
+2025-05-25 02:13:18,997 - INFO - DOWNLOAD test_file_10MB starting...
+2025-05-25 02:13:19,134 - INFO - Worker 1: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:19,136 - INFO - Worker 0: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:19,136 - INFO - Worker 2: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:19,137 - INFO - Worker 5: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:19,137 - INFO - Worker 4: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:19,149 - INFO - Worker 9: DOWNLOAD successful in 0.03s
+2025-05-25 02:13:19,150 - INFO - Worker 8: DOWNLOAD successful in 0.03s
+2025-05-25 02:13:19,150 - INFO - Worker 6: DOWNLOAD successful in 0.03s
+2025-05-25 02:13:19,151 - INFO - Worker 7: DOWNLOAD successful in 0.03s
+2025-05-25 02:13:19,153 - INFO - Worker 10: DOWNLOAD successful in 0.04s
+2025-05-25 02:13:19,161 - INFO - Worker 15: DOWNLOAD successful in 0.04s
+2025-05-25 02:13:19,163 - INFO - Worker 11: DOWNLOAD successful in 0.05s
+2025-05-25 02:13:19,166 - INFO - Worker 16: DOWNLOAD successful in 0.05s
+2025-05-25 02:13:19,166 - INFO - Worker 17: DOWNLOAD successful in 0.05s
+2025-05-25 02:13:19,169 - INFO - Worker 19: DOWNLOAD successful in 0.05s
+2025-05-25 02:13:19,176 - INFO - Worker 21: DOWNLOAD successful in 0.06s
+2025-05-25 02:13:19,178 - INFO - Worker 23: DOWNLOAD successful in 0.06s
+2025-05-25 02:13:19,179 - INFO - Worker 24: DOWNLOAD successful in 0.06s
+2025-05-25 02:13:19,179 - INFO - Worker 27: DOWNLOAD successful in 0.06s
+2025-05-25 02:13:19,179 - INFO - Worker 26: DOWNLOAD successful in 0.06s
+2025-05-25 02:13:19,189 - INFO - Worker 28: DOWNLOAD successful in 0.07s
+2025-05-25 02:13:19,192 - INFO - Worker 30: DOWNLOAD successful in 0.07s
+2025-05-25 02:13:19,192 - INFO - Worker 31: DOWNLOAD successful in 0.07s
+2025-05-25 02:13:19,192 - INFO - Worker 33: DOWNLOAD successful in 0.07s
+2025-05-25 02:13:19,194 - INFO - Worker 29: DOWNLOAD successful in 0.07s
+2025-05-25 02:13:19,204 - INFO - Worker 32: DOWNLOAD successful in 0.08s
+2025-05-25 02:13:19,204 - INFO - Worker 34: DOWNLOAD successful in 0.08s
+2025-05-25 02:13:19,205 - INFO - Worker 35: DOWNLOAD successful in 0.09s
+2025-05-25 02:13:19,205 - INFO - Worker 37: DOWNLOAD successful in 0.09s
+2025-05-25 02:13:19,206 - INFO - Worker 36: DOWNLOAD successful in 0.09s
+2025-05-25 02:13:19,217 - INFO - Worker 41: DOWNLOAD successful in 0.10s
+2025-05-25 02:13:19,218 - INFO - Worker 40: DOWNLOAD successful in 0.10s
+2025-05-25 02:13:19,218 - INFO - Worker 38: DOWNLOAD successful in 0.10s
+2025-05-25 02:13:19,218 - INFO - Worker 39: DOWNLOAD successful in 0.10s
+2025-05-25 02:13:19,219 - INFO - Worker 42: DOWNLOAD successful in 0.10s
+2025-05-25 02:13:19,230 - INFO - Worker 45: DOWNLOAD successful in 0.11s
+2025-05-25 02:13:19,230 - INFO - Worker 47: DOWNLOAD successful in 0.11s
+2025-05-25 02:13:19,231 - INFO - Worker 46: DOWNLOAD successful in 0.11s
+2025-05-25 02:13:19,231 - INFO - Worker 43: DOWNLOAD successful in 0.11s
+2025-05-25 02:13:19,231 - INFO - Worker 44: DOWNLOAD successful in 0.11s
+2025-05-25 02:13:19,240 - INFO - Worker 49: DOWNLOAD successful in 0.12s
+2025-05-25 02:13:19,240 - INFO - Worker 48: DOWNLOAD successful in 0.12s
+2025-05-25 02:13:19,342 - INFO - Worker 20: DOWNLOAD successful in 0.22s
+2025-05-25 02:13:20,138 - INFO - Worker 22: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:20,138 - INFO - Worker 3: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:20,138 - INFO - Worker 13: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:20,139 - INFO - Worker 18: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:20,344 - INFO - Worker 12: DOWNLOAD successful in 1.23s
+2025-05-25 02:13:21,161 - INFO - Worker 14: DOWNLOAD successful in 2.04s
+2025-05-25 02:13:21,184 - INFO - DOWNLOAD test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:13:21,748 - INFO - Worker 0: UPLOAD successful in 0.56s
+2025-05-25 02:13:21,755 - INFO - DOWNLOAD test_file_50MB starting...
+2025-05-25 02:13:21,776 - INFO - Worker 0: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:21,783 - INFO - DOWNLOAD test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:13:22,354 - INFO - Worker 0: UPLOAD successful in 0.57s
+2025-05-25 02:13:22,360 - INFO - DOWNLOAD test_file_50MB starting...
+2025-05-25 02:13:22,399 - INFO - Worker 2: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:22,401 - INFO - Worker 0: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:22,401 - INFO - Worker 1: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:22,401 - INFO - Worker 3: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:22,401 - INFO - Worker 4: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:22,408 - INFO - DOWNLOAD test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:13:22,958 - INFO - Worker 0: UPLOAD successful in 0.55s
+2025-05-25 02:13:22,964 - INFO - DOWNLOAD test_file_50MB starting...
+2025-05-25 02:13:23,015 - INFO - Worker 6: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:23,016 - INFO - Worker 2: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:23,016 - INFO - Worker 3: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:23,016 - INFO - Worker 0: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:23,017 - INFO - Worker 9: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:24,041 - INFO - Worker 4: DOWNLOAD successful in 1.04s
+2025-05-25 02:13:24,042 - INFO - Worker 8: DOWNLOAD successful in 1.04s
+2025-05-25 02:13:24,043 - INFO - Worker 5: DOWNLOAD successful in 1.05s
+2025-05-25 02:13:25,065 - INFO - Worker 1: DOWNLOAD successful in 2.07s
+2025-05-25 02:13:25,079 - INFO - Worker 11: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:25,079 - INFO - Worker 10: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:25,080 - INFO - Worker 17: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:25,083 - INFO - Worker 19: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:25,083 - INFO - Worker 12: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:25,281 - INFO - Worker 18: DOWNLOAD successful in 0.21s
+2025-05-25 02:13:26,088 - INFO - Worker 13: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:26,088 - INFO - Worker 15: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:26,089 - INFO - Worker 16: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:26,089 - INFO - Worker 14: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:26,101 - INFO - Worker 24: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:26,103 - INFO - Worker 21: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:26,104 - INFO - Worker 20: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:27,113 - INFO - Worker 22: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:27,113 - INFO - Worker 26: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:27,113 - INFO - Worker 29: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:27,114 - INFO - Worker 23: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:27,114 - INFO - Worker 25: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:27,120 - INFO - Worker 27: DOWNLOAD successful in 1.03s
+2025-05-25 02:13:27,322 - INFO - Worker 31: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:27,322 - INFO - Worker 32: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:27,323 - INFO - Worker 39: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:27,323 - INFO - Worker 38: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:27,323 - INFO - Worker 30: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:28,329 - INFO - Worker 36: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:28,330 - INFO - Worker 37: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:28,330 - INFO - Worker 35: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:28,330 - INFO - Worker 34: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:28,331 - INFO - Worker 33: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:28,345 - INFO - Worker 42: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:28,345 - INFO - Worker 41: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:28,345 - INFO - Worker 49: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:28,346 - INFO - Worker 40: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:28,347 - INFO - Worker 45: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:28,549 - INFO - Worker 44: DOWNLOAD successful in 0.22s
+2025-05-25 02:13:29,353 - INFO - Worker 46: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:29,354 - INFO - Worker 48: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:29,354 - INFO - Worker 43: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:29,354 - INFO - Worker 47: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:29,363 - INFO - DOWNLOAD test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:13:30,690 - INFO - Worker 0: UPLOAD successful in 1.33s
+2025-05-25 02:13:30,713 - INFO - DOWNLOAD test_file_100MB starting...
+2025-05-25 02:13:30,735 - INFO - Worker 0: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:30,742 - INFO - DOWNLOAD test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:13:32,071 - INFO - Worker 0: UPLOAD successful in 1.33s
+2025-05-25 02:13:32,093 - INFO - DOWNLOAD test_file_100MB starting...
+2025-05-25 02:13:32,132 - INFO - Worker 2: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:32,133 - INFO - Worker 1: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:32,134 - INFO - Worker 0: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:33,194 - INFO - Worker 4: DOWNLOAD successful in 1.08s
+2025-05-25 02:13:33,194 - INFO - Worker 3: DOWNLOAD successful in 1.08s
+2025-05-25 02:13:33,202 - INFO - DOWNLOAD test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:13:34,533 - INFO - Worker 0: UPLOAD successful in 1.33s
+2025-05-25 02:13:34,557 - INFO - DOWNLOAD test_file_100MB starting...
+2025-05-25 02:13:34,618 - INFO - Worker 0: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:34,618 - INFO - Worker 2: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:34,618 - INFO - Worker 1: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:34,618 - INFO - Worker 7: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:34,620 - INFO - Worker 5: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:34,819 - INFO - Worker 6: DOWNLOAD successful in 0.22s
+2025-05-25 02:13:35,628 - INFO - Worker 3: DOWNLOAD successful in 1.03s
+2025-05-25 02:13:35,628 - INFO - Worker 4: DOWNLOAD successful in 1.03s
+2025-05-25 02:13:35,628 - INFO - Worker 8: DOWNLOAD successful in 1.03s
+2025-05-25 02:13:35,628 - INFO - Worker 9: DOWNLOAD successful in 1.03s
+2025-05-25 02:13:35,644 - INFO - Worker 13: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:35,644 - INFO - Worker 12: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:35,645 - INFO - Worker 10: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:35,645 - INFO - Worker 14: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:35,645 - INFO - Worker 11: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:35,651 - INFO - Worker 16: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:35,651 - INFO - Worker 15: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:35,652 - INFO - Worker 17: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:36,646 - INFO - Worker 19: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:36,648 - INFO - Worker 18: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:36,663 - INFO - Worker 21: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:36,663 - INFO - Worker 20: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:36,663 - INFO - Worker 23: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:36,664 - INFO - Worker 25: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:36,665 - INFO - Worker 22: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:37,671 - INFO - Worker 27: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:37,671 - INFO - Worker 24: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:37,672 - INFO - Worker 29: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:37,883 - INFO - Worker 32: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:37,885 - INFO - Worker 35: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:37,885 - INFO - Worker 34: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:37,888 - INFO - Worker 31: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:37,888 - INFO - Worker 30: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:37,891 - INFO - Worker 36: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:37,892 - INFO - Worker 38: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:37,892 - INFO - Worker 37: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:38,086 - INFO - Worker 39: DOWNLOAD successful in 0.22s
+2025-05-25 02:13:38,886 - INFO - Worker 33: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:38,900 - INFO - Worker 41: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:38,900 - INFO - Worker 42: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:38,901 - INFO - Worker 49: DOWNLOAD successful in 0.01s
+2025-05-25 02:13:38,905 - INFO - Worker 40: DOWNLOAD successful in 0.02s
+2025-05-25 02:13:39,103 - INFO - Worker 43: DOWNLOAD successful in 0.22s
+2025-05-25 02:13:39,912 - INFO - Worker 45: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:39,912 - INFO - Worker 47: DOWNLOAD successful in 1.02s
+2025-05-25 02:13:39,914 - INFO - Worker 46: DOWNLOAD successful in 1.03s
+2025-05-25 02:13:40,117 - INFO - DOWNLOAD test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:13:40,117 - INFO - LIST test_file_10MB starting...
+2025-05-25 02:13:40,123 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:13:40,128 - INFO - LIST test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:13:40,128 - INFO - LIST test_file_10MB starting...
+2025-05-25 02:13:40,144 - INFO - Worker 2: LIST successful in 0.00s
+2025-05-25 02:13:40,144 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:13:40,144 - INFO - Worker 3: LIST successful in 0.00s
+2025-05-25 02:13:41,182 - INFO - Worker 1: LIST successful in 1.04s
+2025-05-25 02:13:41,182 - INFO - Worker 4: LIST successful in 1.04s
+2025-05-25 02:13:41,190 - INFO - LIST test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:13:41,190 - INFO - LIST test_file_10MB starting...
+2025-05-25 02:13:41,312 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:13:41,313 - INFO - Worker 2: LIST successful in 0.00s
+2025-05-25 02:13:41,313 - INFO - Worker 3: LIST successful in 0.00s
+2025-05-25 02:13:41,313 - INFO - Worker 1: LIST successful in 0.00s
+2025-05-25 02:13:41,313 - INFO - Worker 4: LIST successful in 0.01s
+2025-05-25 02:13:41,315 - INFO - Worker 5: LIST successful in 0.01s
+2025-05-25 02:13:41,315 - INFO - Worker 6: LIST successful in 0.01s
+2025-05-25 02:13:41,315 - INFO - Worker 8: LIST successful in 0.01s
+2025-05-25 02:13:41,315 - INFO - Worker 9: LIST successful in 0.01s
+2025-05-25 02:13:41,316 - INFO - Worker 10: LIST successful in 0.01s
+2025-05-25 02:13:41,317 - INFO - Worker 14: LIST successful in 0.01s
+2025-05-25 02:13:41,317 - INFO - Worker 12: LIST successful in 0.01s
+2025-05-25 02:13:41,317 - INFO - Worker 15: LIST successful in 0.01s
+2025-05-25 02:13:41,317 - INFO - Worker 16: LIST successful in 0.01s
+2025-05-25 02:13:41,318 - INFO - Worker 18: LIST successful in 0.01s
+2025-05-25 02:13:41,319 - INFO - Worker 19: LIST successful in 0.01s
+2025-05-25 02:13:41,319 - INFO - Worker 20: LIST successful in 0.01s
+2025-05-25 02:13:41,319 - INFO - Worker 17: LIST successful in 0.01s
+2025-05-25 02:13:41,319 - INFO - Worker 23: LIST successful in 0.01s
+2025-05-25 02:13:41,320 - INFO - Worker 28: LIST successful in 0.01s
+2025-05-25 02:13:41,321 - INFO - Worker 29: LIST successful in 0.01s
+2025-05-25 02:13:41,321 - INFO - Worker 30: LIST successful in 0.01s
+2025-05-25 02:13:41,321 - INFO - Worker 31: LIST successful in 0.01s
+2025-05-25 02:13:41,322 - INFO - Worker 32: LIST successful in 0.01s
+2025-05-25 02:13:41,322 - INFO - Worker 33: LIST successful in 0.01s
+2025-05-25 02:13:41,323 - INFO - Worker 34: LIST successful in 0.01s
+2025-05-25 02:13:41,323 - INFO - Worker 35: LIST successful in 0.01s
+2025-05-25 02:13:41,324 - INFO - Worker 36: LIST successful in 0.01s
+2025-05-25 02:13:41,324 - INFO - Worker 37: LIST successful in 0.01s
+2025-05-25 02:13:41,324 - INFO - Worker 38: LIST successful in 0.01s
+2025-05-25 02:13:41,325 - INFO - Worker 39: LIST successful in 0.01s
+2025-05-25 02:13:41,325 - INFO - Worker 41: LIST successful in 0.01s
+2025-05-25 02:13:41,326 - INFO - Worker 40: LIST successful in 0.01s
+2025-05-25 02:13:41,326 - INFO - Worker 42: LIST successful in 0.01s
+2025-05-25 02:13:41,326 - INFO - Worker 43: LIST successful in 0.01s
+2025-05-25 02:13:41,327 - INFO - Worker 44: LIST successful in 0.02s
+2025-05-25 02:13:41,327 - INFO - Worker 45: LIST successful in 0.02s
+2025-05-25 02:13:41,327 - INFO - Worker 46: LIST successful in 0.02s
+2025-05-25 02:13:41,327 - INFO - Worker 49: LIST successful in 0.02s
+2025-05-25 02:13:41,328 - INFO - Worker 48: LIST successful in 0.02s
+2025-05-25 02:13:41,328 - INFO - Worker 47: LIST successful in 0.02s
+2025-05-25 02:13:41,517 - INFO - Worker 21: LIST successful in 0.21s
+2025-05-25 02:13:42,334 - INFO - Worker 26: LIST successful in 1.02s
+2025-05-25 02:13:42,335 - INFO - Worker 13: LIST successful in 1.03s
+2025-05-25 02:13:42,335 - INFO - Worker 22: LIST successful in 1.03s
+2025-05-25 02:13:42,335 - INFO - Worker 24: LIST successful in 1.03s
+2025-05-25 02:13:42,336 - INFO - Worker 27: LIST successful in 1.03s
+2025-05-25 02:13:42,540 - ERROR - Worker 11: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:13:42,540 - ERROR - Worker 7: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:13:42,540 - ERROR - Worker 25: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:13:42,562 - INFO - LIST test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:13:42,562 - INFO - LIST test_file_50MB starting...
+2025-05-25 02:13:42,568 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:13:42,572 - INFO - LIST test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:13:42,573 - INFO - LIST test_file_50MB starting...
+2025-05-25 02:13:42,590 - INFO - Worker 1: LIST successful in 0.00s
+2025-05-25 02:13:42,590 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:13:42,590 - INFO - Worker 3: LIST successful in 0.00s
+2025-05-25 02:13:42,799 - INFO - Worker 2: LIST successful in 0.21s
+2025-05-25 02:13:43,614 - INFO - Worker 4: LIST successful in 1.03s
+2025-05-25 02:13:43,621 - INFO - LIST test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:13:43,621 - INFO - LIST test_file_50MB starting...
+2025-05-25 02:13:43,647 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:13:43,647 - INFO - Worker 2: LIST successful in 0.00s
+2025-05-25 02:13:43,647 - INFO - Worker 1: LIST successful in 0.00s
+2025-05-25 02:13:43,647 - INFO - Worker 5: LIST successful in 0.00s
+2025-05-25 02:13:43,648 - INFO - Worker 6: LIST successful in 0.00s
+2025-05-25 02:13:43,649 - INFO - Worker 7: LIST successful in 0.00s
+2025-05-25 02:13:43,649 - INFO - Worker 9: LIST successful in 0.00s
+2025-05-25 02:13:43,649 - INFO - Worker 8: LIST successful in 0.00s
+2025-05-25 02:13:44,702 - INFO - Worker 3: LIST successful in 1.06s
+2025-05-25 02:13:44,702 - INFO - Worker 4: LIST successful in 1.06s
+2025-05-25 02:13:44,705 - INFO - Worker 10: LIST successful in 0.00s
+2025-05-25 02:13:44,705 - INFO - Worker 11: LIST successful in 0.00s
+2025-05-25 02:13:44,705 - INFO - Worker 12: LIST successful in 0.00s
+2025-05-25 02:13:44,706 - INFO - Worker 14: LIST successful in 0.00s
+2025-05-25 02:13:44,706 - INFO - Worker 15: LIST successful in 0.00s
+2025-05-25 02:13:44,706 - INFO - Worker 16: LIST successful in 0.00s
+2025-05-25 02:13:45,726 - INFO - Worker 18: LIST successful in 1.02s
+2025-05-25 02:13:45,726 - INFO - Worker 13: LIST successful in 1.02s
+2025-05-25 02:13:45,726 - INFO - Worker 19: LIST successful in 1.02s
+2025-05-25 02:13:46,750 - INFO - Worker 17: LIST successful in 2.05s
+2025-05-25 02:13:46,754 - INFO - Worker 20: LIST successful in 0.00s
+2025-05-25 02:13:46,754 - INFO - Worker 21: LIST successful in 0.00s
+2025-05-25 02:13:46,754 - INFO - Worker 22: LIST successful in 0.00s
+2025-05-25 02:13:46,754 - INFO - Worker 23: LIST successful in 0.00s
+2025-05-25 02:13:46,754 - INFO - Worker 25: LIST successful in 0.00s
+2025-05-25 02:13:46,755 - INFO - Worker 28: LIST successful in 0.00s
+2025-05-25 02:13:46,957 - INFO - Worker 29: LIST successful in 0.21s
+2025-05-25 02:13:47,774 - INFO - Worker 27: LIST successful in 1.02s
+2025-05-25 02:13:47,774 - INFO - Worker 26: LIST successful in 1.02s
+2025-05-25 02:13:47,774 - INFO - Worker 24: LIST successful in 1.02s
+2025-05-25 02:13:47,777 - INFO - Worker 30: LIST successful in 0.00s
+2025-05-25 02:13:47,777 - INFO - Worker 31: LIST successful in 0.00s
+2025-05-25 02:13:47,777 - INFO - Worker 32: LIST successful in 0.00s
+2025-05-25 02:13:47,777 - INFO - Worker 34: LIST successful in 0.00s
+2025-05-25 02:13:47,777 - INFO - Worker 35: LIST successful in 0.00s
+2025-05-25 02:13:48,798 - INFO - Worker 38: LIST successful in 1.02s
+2025-05-25 02:13:48,798 - INFO - Worker 37: LIST successful in 1.02s
+2025-05-25 02:13:48,798 - INFO - Worker 39: LIST successful in 1.02s
+2025-05-25 02:13:49,004 - ERROR - Worker 36: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:13:49,005 - INFO - Worker 33: LIST successful in 1.23s
+2025-05-25 02:13:49,008 - INFO - Worker 40: LIST successful in 0.00s
+2025-05-25 02:13:49,008 - INFO - Worker 41: LIST successful in 0.00s
+2025-05-25 02:13:49,008 - INFO - Worker 42: LIST successful in 0.00s
+2025-05-25 02:13:49,008 - INFO - Worker 43: LIST successful in 0.00s
+2025-05-25 02:13:49,009 - INFO - Worker 44: LIST successful in 0.00s
+2025-05-25 02:13:49,009 - INFO - Worker 45: LIST successful in 0.00s
+2025-05-25 02:13:50,014 - INFO - Worker 49: LIST successful in 1.01s
+2025-05-25 02:13:50,014 - INFO - Worker 48: LIST successful in 1.01s
+2025-05-25 02:13:50,015 - INFO - Worker 47: LIST successful in 1.01s
+2025-05-25 02:13:50,015 - INFO - Worker 46: LIST successful in 1.01s
+2025-05-25 02:13:50,022 - INFO - LIST test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:13:50,022 - INFO - LIST test_file_100MB starting...
+2025-05-25 02:13:50,028 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:13:50,032 - INFO - LIST test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:13:50,032 - INFO - LIST test_file_100MB starting...
+2025-05-25 02:13:50,048 - INFO - Worker 1: LIST successful in 0.00s
+2025-05-25 02:13:50,048 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:13:50,048 - INFO - Worker 2: LIST successful in 0.00s
+2025-05-25 02:13:50,048 - INFO - Worker 4: LIST successful in 0.00s
+2025-05-25 02:13:51,103 - INFO - Worker 3: LIST successful in 1.06s
+2025-05-25 02:13:51,110 - INFO - LIST test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:13:51,110 - INFO - LIST test_file_100MB starting...
+2025-05-25 02:13:51,145 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:13:51,145 - INFO - Worker 1: LIST successful in 0.00s
+2025-05-25 02:13:51,145 - INFO - Worker 2: LIST successful in 0.00s
+2025-05-25 02:13:51,146 - INFO - Worker 5: LIST successful in 0.00s
+2025-05-25 02:13:51,146 - INFO - Worker 7: LIST successful in 0.00s
+2025-05-25 02:13:51,147 - INFO - Worker 6: LIST successful in 0.00s
+2025-05-25 02:13:51,147 - INFO - Worker 8: LIST successful in 0.00s
+2025-05-25 02:13:52,190 - INFO - Worker 4: LIST successful in 1.05s
+2025-05-25 02:13:52,190 - INFO - Worker 9: LIST successful in 1.05s
+2025-05-25 02:13:52,190 - INFO - Worker 3: LIST successful in 1.05s
+2025-05-25 02:13:52,193 - INFO - Worker 10: LIST successful in 0.00s
+2025-05-25 02:13:52,193 - INFO - Worker 12: LIST successful in 0.00s
+2025-05-25 02:13:52,193 - INFO - Worker 11: LIST successful in 0.00s
+2025-05-25 02:13:52,194 - INFO - Worker 14: LIST successful in 0.00s
+2025-05-25 02:13:52,194 - INFO - Worker 15: LIST successful in 0.00s
+2025-05-25 02:13:52,195 - INFO - Worker 16: LIST successful in 0.00s
+2025-05-25 02:13:52,195 - INFO - Worker 18: LIST successful in 0.00s
+2025-05-25 02:13:52,195 - INFO - Worker 17: LIST successful in 0.00s
+2025-05-25 02:13:53,213 - INFO - Worker 13: LIST successful in 1.02s
+2025-05-25 02:13:53,214 - INFO - Worker 19: LIST successful in 1.02s
+2025-05-25 02:13:53,216 - INFO - Worker 20: LIST successful in 0.00s
+2025-05-25 02:13:53,216 - INFO - Worker 22: LIST successful in 0.00s
+2025-05-25 02:13:53,217 - INFO - Worker 24: LIST successful in 0.00s
+2025-05-25 02:13:53,217 - INFO - Worker 21: LIST successful in 0.00s
+2025-05-25 02:13:53,217 - INFO - Worker 25: LIST successful in 0.00s
+2025-05-25 02:13:53,217 - INFO - Worker 26: LIST successful in 0.00s
+2025-05-25 02:13:53,420 - ERROR - Worker 27: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:13:53,421 - INFO - Worker 28: LIST successful in 0.21s
+2025-05-25 02:13:54,237 - INFO - Worker 29: LIST successful in 1.02s
+2025-05-25 02:13:54,238 - INFO - Worker 23: LIST successful in 1.02s
+2025-05-25 02:13:54,240 - INFO - Worker 30: LIST successful in 0.00s
+2025-05-25 02:13:54,240 - INFO - Worker 32: LIST successful in 0.00s
+2025-05-25 02:13:54,240 - INFO - Worker 33: LIST successful in 0.00s
+2025-05-25 02:13:54,241 - INFO - Worker 31: LIST successful in 0.00s
+2025-05-25 02:13:54,241 - INFO - Worker 36: LIST successful in 0.00s
+2025-05-25 02:13:54,445 - INFO - Worker 34: LIST successful in 0.21s
+2025-05-25 02:13:55,262 - INFO - Worker 37: LIST successful in 1.02s
+2025-05-25 02:13:55,262 - INFO - Worker 39: LIST successful in 1.02s
+2025-05-25 02:13:55,262 - INFO - Worker 38: LIST successful in 1.02s
+2025-05-25 02:13:55,469 - INFO - Worker 35: LIST successful in 1.23s
+2025-05-25 02:13:55,472 - INFO - Worker 41: LIST successful in 0.00s
+2025-05-25 02:13:55,472 - INFO - Worker 40: LIST successful in 0.00s
+2025-05-25 02:13:55,472 - INFO - Worker 42: LIST successful in 0.00s
+2025-05-25 02:13:55,472 - INFO - Worker 44: LIST successful in 0.00s
+2025-05-25 02:13:55,473 - INFO - Worker 48: LIST successful in 0.00s
+2025-05-25 02:13:55,676 - ERROR - Worker 49: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:13:55,677 - INFO - Worker 45: LIST successful in 0.21s
+2025-05-25 02:13:56,478 - INFO - Worker 46: LIST successful in 1.01s
+2025-05-25 02:13:56,478 - INFO - Worker 43: LIST successful in 1.01s
+2025-05-25 02:13:56,478 - INFO - Worker 47: LIST successful in 1.01s
+2025-05-25 02:13:56,485 - INFO - LIST test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:13:56,485 - INFO - Server pool size: 50
+2025-05-25 02:13:56,485 - INFO - Please restart the server with the appropriate pool size!
+2025-05-25 02:14:05,459 - INFO - UPLOAD test_file_10MB starting...
+2025-05-25 02:14:05,593 - INFO - Worker 0: UPLOAD successful in 0.13s
+2025-05-25 02:14:05,603 - INFO - UPLOAD test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:14:05,603 - INFO - UPLOAD test_file_10MB starting...
+2025-05-25 02:14:05,780 - INFO - Worker 4: UPLOAD successful in 0.16s
+2025-05-25 02:14:05,780 - INFO - Worker 1: UPLOAD successful in 0.16s
+2025-05-25 02:14:05,781 - INFO - Worker 3: UPLOAD successful in 0.16s
+2025-05-25 02:14:05,783 - INFO - Worker 0: UPLOAD successful in 0.17s
+2025-05-25 02:14:05,785 - INFO - Worker 2: UPLOAD successful in 0.17s
+2025-05-25 02:14:05,795 - INFO - UPLOAD test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:14:05,796 - INFO - UPLOAD test_file_10MB starting...
+2025-05-25 02:14:06,623 - INFO - Worker 0: UPLOAD successful in 0.71s
+2025-05-25 02:14:06,627 - INFO - Worker 6: UPLOAD successful in 0.72s
+2025-05-25 02:14:06,651 - INFO - Worker 9: UPLOAD successful in 0.74s
+2025-05-25 02:14:06,670 - INFO - Worker 2: UPLOAD successful in 0.76s
+2025-05-25 02:14:06,673 - INFO - Worker 4: UPLOAD successful in 0.76s
+2025-05-25 02:14:06,679 - INFO - Worker 13: UPLOAD successful in 0.77s
+2025-05-25 02:14:06,719 - INFO - Worker 16: UPLOAD successful in 0.81s
+2025-05-25 02:14:06,735 - INFO - Worker 12: UPLOAD successful in 0.82s
+2025-05-25 02:14:06,782 - INFO - Worker 10: UPLOAD successful in 0.87s
+2025-05-25 02:14:06,913 - INFO - Worker 41: UPLOAD successful in 0.86s
+2025-05-25 02:14:07,000 - INFO - Worker 14: UPLOAD successful in 1.09s
+2025-05-25 02:14:07,019 - INFO - Worker 25: UPLOAD successful in 1.08s
+2025-05-25 02:14:07,027 - INFO - Worker 7: UPLOAD successful in 1.12s
+2025-05-25 02:14:07,031 - INFO - Worker 5: UPLOAD successful in 1.12s
+2025-05-25 02:14:07,047 - INFO - Worker 31: UPLOAD successful in 1.06s
+2025-05-25 02:14:07,049 - INFO - Worker 28: UPLOAD successful in 1.08s
+2025-05-25 02:14:07,065 - INFO - Worker 49: UPLOAD successful in 0.96s
+2025-05-25 02:14:07,121 - INFO - Worker 15: UPLOAD successful in 1.21s
+2025-05-25 02:14:07,162 - INFO - Worker 18: UPLOAD successful in 1.24s
+2025-05-25 02:14:07,172 - INFO - Worker 23: UPLOAD successful in 1.23s
+2025-05-25 02:14:07,187 - INFO - Worker 1: UPLOAD successful in 1.28s
+2025-05-25 02:14:07,192 - INFO - Worker 46: UPLOAD successful in 1.10s
+2025-05-25 02:14:07,194 - INFO - Worker 44: UPLOAD successful in 1.12s
+2025-05-25 02:14:07,206 - INFO - Worker 37: UPLOAD successful in 1.18s
+2025-05-25 02:14:07,215 - INFO - Worker 17: UPLOAD successful in 1.30s
+2025-05-25 02:14:07,249 - INFO - Worker 32: UPLOAD successful in 1.25s
+2025-05-25 02:14:07,270 - INFO - Worker 42: UPLOAD successful in 1.22s
+2025-05-25 02:14:07,289 - INFO - Worker 35: UPLOAD successful in 1.27s
+2025-05-25 02:14:07,291 - INFO - Worker 24: UPLOAD successful in 1.35s
+2025-05-25 02:14:07,292 - INFO - Worker 3: UPLOAD successful in 1.38s
+2025-05-25 02:14:07,303 - INFO - Worker 33: UPLOAD successful in 1.29s
+2025-05-25 02:14:07,309 - INFO - Worker 34: UPLOAD successful in 1.30s
+2025-05-25 02:14:07,311 - INFO - Worker 26: UPLOAD successful in 1.36s
+2025-05-25 02:14:07,312 - INFO - Worker 40: UPLOAD successful in 1.27s
+2025-05-25 02:14:07,314 - INFO - Worker 43: UPLOAD successful in 1.25s
+2025-05-25 02:14:07,320 - INFO - Worker 11: UPLOAD successful in 1.41s
+2025-05-25 02:14:07,321 - INFO - Worker 19: UPLOAD successful in 1.40s
+2025-05-25 02:14:07,324 - INFO - Worker 38: UPLOAD successful in 1.29s
+2025-05-25 02:14:07,326 - INFO - Worker 27: UPLOAD successful in 1.37s
+2025-05-25 02:14:07,336 - INFO - Worker 48: UPLOAD successful in 1.23s
+2025-05-25 02:14:07,336 - INFO - Worker 36: UPLOAD successful in 1.32s
+2025-05-25 02:14:07,341 - INFO - Worker 45: UPLOAD successful in 1.26s
+2025-05-25 02:14:07,341 - INFO - Worker 8: UPLOAD successful in 1.43s
+2025-05-25 02:14:07,344 - INFO - Worker 39: UPLOAD successful in 1.30s
+2025-05-25 02:14:07,345 - INFO - Worker 47: UPLOAD successful in 1.25s
+2025-05-25 02:14:07,350 - INFO - Worker 29: UPLOAD successful in 1.38s
+2025-05-25 02:14:07,351 - INFO - Worker 22: UPLOAD successful in 1.42s
+2025-05-25 02:14:07,354 - INFO - Worker 21: UPLOAD successful in 1.42s
+2025-05-25 02:14:07,360 - INFO - Worker 30: UPLOAD successful in 1.38s
+2025-05-25 02:14:07,536 - INFO - Worker 20: UPLOAD successful in 1.61s
+2025-05-25 02:14:07,602 - INFO - UPLOAD test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:14:07,602 - INFO - UPLOAD test_file_50MB starting...
+2025-05-25 02:14:08,189 - INFO - Worker 0: UPLOAD successful in 0.58s
+2025-05-25 02:14:08,207 - INFO - UPLOAD test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:14:08,207 - INFO - UPLOAD test_file_50MB starting...
+2025-05-25 02:14:09,115 - INFO - Worker 3: UPLOAD successful in 0.89s
+2025-05-25 02:14:09,119 - INFO - Worker 0: UPLOAD successful in 0.89s
+2025-05-25 02:14:09,125 - INFO - Worker 2: UPLOAD successful in 0.90s
+2025-05-25 02:14:09,128 - INFO - Worker 1: UPLOAD successful in 0.90s
+2025-05-25 02:14:09,132 - INFO - Worker 4: UPLOAD successful in 0.90s
+2025-05-25 02:14:09,155 - INFO - UPLOAD test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:14:09,155 - INFO - UPLOAD test_file_50MB starting...
+2025-05-25 02:14:10,850 - INFO - Worker 5: UPLOAD successful in 1.67s
+2025-05-25 02:14:10,875 - INFO - Worker 2: UPLOAD successful in 1.69s
+2025-05-25 02:14:10,882 - INFO - Worker 6: UPLOAD successful in 1.70s
+2025-05-25 02:14:10,904 - INFO - Worker 7: UPLOAD successful in 1.72s
+2025-05-25 02:14:10,938 - INFO - Worker 3: UPLOAD successful in 1.76s
+2025-05-25 02:14:10,939 - INFO - Worker 4: UPLOAD successful in 1.76s
+2025-05-25 02:14:10,950 - INFO - Worker 9: UPLOAD successful in 1.77s
+2025-05-25 02:14:10,958 - INFO - Worker 1: UPLOAD successful in 1.78s
+2025-05-25 02:14:10,965 - INFO - Worker 0: UPLOAD successful in 1.78s
+2025-05-25 02:14:10,969 - INFO - Worker 8: UPLOAD successful in 1.79s
+2025-05-25 02:14:12,588 - INFO - Worker 12: UPLOAD successful in 1.61s
+2025-05-25 02:14:12,616 - INFO - Worker 11: UPLOAD successful in 1.64s
+2025-05-25 02:14:12,626 - INFO - Worker 14: UPLOAD successful in 1.65s
+2025-05-25 02:14:12,637 - INFO - Worker 19: UPLOAD successful in 1.66s
+2025-05-25 02:14:12,643 - INFO - Worker 13: UPLOAD successful in 1.67s
+2025-05-25 02:14:12,649 - INFO - Worker 15: UPLOAD successful in 1.67s
+2025-05-25 02:14:12,673 - INFO - Worker 18: UPLOAD successful in 1.70s
+2025-05-25 02:14:12,688 - INFO - Worker 17: UPLOAD successful in 1.71s
+2025-05-25 02:14:12,705 - INFO - Worker 10: UPLOAD successful in 1.73s
+2025-05-25 02:14:12,715 - INFO - Worker 16: UPLOAD successful in 1.74s
+2025-05-25 02:14:14,323 - INFO - Worker 27: UPLOAD successful in 1.60s
+2025-05-25 02:14:14,340 - INFO - Worker 22: UPLOAD successful in 1.62s
+2025-05-25 02:14:14,374 - INFO - Worker 26: UPLOAD successful in 1.65s
+2025-05-25 02:14:14,376 - INFO - Worker 24: UPLOAD successful in 1.66s
+2025-05-25 02:14:14,391 - INFO - Worker 29: UPLOAD successful in 1.67s
+2025-05-25 02:14:14,406 - INFO - Worker 20: UPLOAD successful in 1.69s
+2025-05-25 02:14:14,407 - INFO - Worker 21: UPLOAD successful in 1.69s
+2025-05-25 02:14:14,410 - INFO - Worker 25: UPLOAD successful in 1.69s
+2025-05-25 02:14:14,414 - INFO - Worker 23: UPLOAD successful in 1.69s
+2025-05-25 02:14:14,437 - INFO - Worker 28: UPLOAD successful in 1.72s
+2025-05-25 02:14:16,033 - INFO - Worker 35: UPLOAD successful in 1.59s
+2025-05-25 02:14:16,063 - INFO - Worker 34: UPLOAD successful in 1.62s
+2025-05-25 02:14:16,065 - INFO - Worker 39: UPLOAD successful in 1.62s
+2025-05-25 02:14:16,073 - INFO - Worker 32: UPLOAD successful in 1.63s
+2025-05-25 02:14:16,099 - INFO - Worker 38: UPLOAD successful in 1.66s
+2025-05-25 02:14:16,102 - INFO - Worker 30: UPLOAD successful in 1.66s
+2025-05-25 02:14:16,122 - INFO - Worker 36: UPLOAD successful in 1.68s
+2025-05-25 02:14:16,122 - INFO - Worker 37: UPLOAD successful in 1.68s
+2025-05-25 02:14:16,135 - INFO - Worker 31: UPLOAD successful in 1.69s
+2025-05-25 02:14:16,159 - INFO - Worker 33: UPLOAD successful in 1.72s
+2025-05-25 02:14:17,723 - INFO - Worker 45: UPLOAD successful in 1.56s
+2025-05-25 02:14:17,795 - INFO - Worker 40: UPLOAD successful in 1.63s
+2025-05-25 02:14:17,798 - INFO - Worker 42: UPLOAD successful in 1.63s
+2025-05-25 02:14:17,798 - INFO - Worker 47: UPLOAD successful in 1.63s
+2025-05-25 02:14:17,816 - INFO - Worker 44: UPLOAD successful in 1.65s
+2025-05-25 02:14:17,838 - INFO - Worker 43: UPLOAD successful in 1.67s
+2025-05-25 02:14:17,868 - INFO - Worker 41: UPLOAD successful in 1.70s
+2025-05-25 02:14:17,876 - INFO - Worker 49: UPLOAD successful in 1.71s
+2025-05-25 02:14:17,879 - INFO - Worker 48: UPLOAD successful in 1.71s
+2025-05-25 02:14:17,886 - INFO - Worker 46: UPLOAD successful in 1.72s
+2025-05-25 02:14:17,919 - INFO - UPLOAD test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:14:17,919 - INFO - UPLOAD test_file_100MB starting...
+2025-05-25 02:14:19,262 - INFO - Worker 0: UPLOAD successful in 1.34s
+2025-05-25 02:14:19,296 - INFO - UPLOAD test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:14:19,296 - INFO - UPLOAD test_file_100MB starting...
+2025-05-25 02:14:21,344 - INFO - Worker 3: UPLOAD successful in 2.03s
+2025-05-25 02:14:21,347 - INFO - Worker 1: UPLOAD successful in 2.03s
+2025-05-25 02:14:21,370 - INFO - Worker 0: UPLOAD successful in 2.05s
+2025-05-25 02:14:21,380 - INFO - Worker 2: UPLOAD successful in 2.06s
+2025-05-25 02:14:21,381 - INFO - Worker 4: UPLOAD successful in 2.06s
+2025-05-25 02:14:21,418 - INFO - UPLOAD test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:14:21,418 - INFO - UPLOAD test_file_100MB starting...
+2025-05-25 02:14:24,752 - INFO - Worker 8: UPLOAD successful in 3.31s
+2025-05-25 02:14:24,863 - INFO - Worker 7: UPLOAD successful in 3.42s
+2025-05-25 02:14:24,889 - INFO - Worker 2: UPLOAD successful in 3.44s
+2025-05-25 02:14:24,911 - INFO - Worker 0: UPLOAD successful in 3.47s
+2025-05-25 02:14:24,934 - INFO - Worker 4: UPLOAD successful in 3.49s
+2025-05-25 02:14:24,986 - INFO - Worker 5: UPLOAD successful in 3.54s
+2025-05-25 02:14:24,989 - INFO - Worker 1: UPLOAD successful in 3.54s
+2025-05-25 02:14:25,028 - INFO - Worker 3: UPLOAD successful in 3.58s
+2025-05-25 02:14:25,077 - INFO - Worker 6: UPLOAD successful in 3.63s
+2025-05-25 02:14:25,096 - INFO - Worker 9: UPLOAD successful in 3.65s
+2025-05-25 02:14:28,384 - INFO - Worker 13: UPLOAD successful in 3.27s
+2025-05-25 02:14:28,422 - INFO - Worker 15: UPLOAD successful in 3.31s
+2025-05-25 02:14:28,504 - INFO - Worker 10: UPLOAD successful in 3.39s
+2025-05-25 02:14:28,576 - INFO - Worker 12: UPLOAD successful in 3.46s
+2025-05-25 02:14:28,595 - INFO - Worker 11: UPLOAD successful in 3.48s
+2025-05-25 02:14:28,618 - INFO - Worker 19: UPLOAD successful in 3.50s
+2025-05-25 02:14:28,625 - INFO - Worker 18: UPLOAD successful in 3.51s
+2025-05-25 02:14:28,637 - INFO - Worker 16: UPLOAD successful in 3.52s
+2025-05-25 02:14:28,650 - INFO - Worker 14: UPLOAD successful in 3.54s
+2025-05-25 02:14:28,662 - INFO - Worker 17: UPLOAD successful in 3.55s
+2025-05-25 02:14:31,992 - INFO - Worker 24: UPLOAD successful in 3.31s
+2025-05-25 02:14:32,062 - INFO - Worker 27: UPLOAD successful in 3.38s
+2025-05-25 02:14:32,063 - INFO - Worker 23: UPLOAD successful in 3.38s
+2025-05-25 02:14:32,141 - INFO - Worker 26: UPLOAD successful in 3.46s
+2025-05-25 02:14:32,163 - INFO - Worker 20: UPLOAD successful in 3.48s
+2025-05-25 02:14:32,168 - INFO - Worker 29: UPLOAD successful in 3.49s
+2025-05-25 02:14:32,182 - INFO - Worker 22: UPLOAD successful in 3.50s
+2025-05-25 02:14:32,193 - INFO - Worker 25: UPLOAD successful in 3.51s
+2025-05-25 02:14:32,194 - INFO - Worker 21: UPLOAD successful in 3.51s
+2025-05-25 02:14:32,219 - INFO - Worker 28: UPLOAD successful in 3.54s
+2025-05-25 02:14:35,560 - INFO - Worker 39: UPLOAD successful in 3.32s
+2025-05-25 02:14:35,625 - INFO - Worker 36: UPLOAD successful in 3.39s
+2025-05-25 02:14:35,626 - INFO - Worker 33: UPLOAD successful in 3.39s
+2025-05-25 02:14:35,715 - INFO - Worker 35: UPLOAD successful in 3.48s
+2025-05-25 02:14:35,731 - INFO - Worker 38: UPLOAD successful in 3.49s
+2025-05-25 02:14:35,731 - INFO - Worker 37: UPLOAD successful in 3.49s
+2025-05-25 02:14:35,745 - INFO - Worker 34: UPLOAD successful in 3.51s
+2025-05-25 02:14:35,747 - INFO - Worker 32: UPLOAD successful in 3.51s
+2025-05-25 02:14:35,748 - INFO - Worker 30: UPLOAD successful in 3.51s
+2025-05-25 02:14:35,776 - INFO - Worker 31: UPLOAD successful in 3.54s
+2025-05-25 02:14:39,052 - INFO - Worker 43: UPLOAD successful in 3.26s
+2025-05-25 02:14:39,180 - INFO - Worker 49: UPLOAD successful in 3.38s
+2025-05-25 02:14:39,205 - INFO - Worker 44: UPLOAD successful in 3.41s
+2025-05-25 02:14:39,218 - INFO - Worker 42: UPLOAD successful in 3.42s
+2025-05-25 02:14:39,236 - INFO - Worker 46: UPLOAD successful in 3.44s
+2025-05-25 02:14:39,273 - INFO - Worker 47: UPLOAD successful in 3.48s
+2025-05-25 02:14:39,317 - INFO - Worker 45: UPLOAD successful in 3.52s
+2025-05-25 02:14:39,327 - INFO - Worker 48: UPLOAD successful in 3.53s
+2025-05-25 02:14:39,340 - INFO - Worker 40: UPLOAD successful in 3.54s
+2025-05-25 02:14:39,409 - INFO - Worker 41: UPLOAD successful in 3.61s
+2025-05-25 02:14:39,455 - INFO - UPLOAD test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:14:39,522 - INFO - Worker 0: UPLOAD successful in 0.07s
+2025-05-25 02:14:39,522 - INFO - DOWNLOAD test_file_10MB starting...
+2025-05-25 02:14:39,541 - INFO - Worker 0: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:39,547 - INFO - DOWNLOAD test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:14:39,617 - INFO - Worker 0: UPLOAD successful in 0.07s
+2025-05-25 02:14:39,617 - INFO - DOWNLOAD test_file_10MB starting...
+2025-05-25 02:14:39,649 - INFO - Worker 2: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:39,649 - INFO - Worker 0: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:39,650 - INFO - Worker 1: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:39,650 - INFO - Worker 4: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:39,849 - INFO - Worker 3: DOWNLOAD successful in 0.21s
+2025-05-25 02:14:39,857 - INFO - DOWNLOAD test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:14:39,924 - INFO - Worker 0: UPLOAD successful in 0.07s
+2025-05-25 02:14:39,924 - INFO - DOWNLOAD test_file_10MB starting...
+2025-05-25 02:14:40,078 - INFO - Worker 0: DOWNLOAD successful in 0.04s
+2025-05-25 02:14:40,081 - INFO - Worker 1: DOWNLOAD successful in 0.04s
+2025-05-25 02:14:40,088 - INFO - Worker 2: DOWNLOAD successful in 0.05s
+2025-05-25 02:14:40,088 - INFO - Worker 3: DOWNLOAD successful in 0.05s
+2025-05-25 02:14:40,093 - INFO - Worker 5: DOWNLOAD successful in 0.05s
+2025-05-25 02:14:40,097 - INFO - Worker 17: DOWNLOAD successful in 0.06s
+2025-05-25 02:14:40,098 - INFO - Worker 30: DOWNLOAD successful in 0.06s
+2025-05-25 02:14:40,099 - INFO - Worker 22: DOWNLOAD successful in 0.06s
+2025-05-25 02:14:40,096 - INFO - Worker 6: DOWNLOAD successful in 0.06s
+2025-05-25 02:14:40,101 - INFO - Worker 24: DOWNLOAD successful in 0.06s
+2025-05-25 02:14:40,102 - INFO - Worker 28: DOWNLOAD successful in 0.06s
+2025-05-25 02:14:40,104 - INFO - Worker 23: DOWNLOAD successful in 0.06s
+2025-05-25 02:14:40,107 - INFO - Worker 14: DOWNLOAD successful in 0.07s
+2025-05-25 02:14:40,108 - INFO - Worker 4: DOWNLOAD successful in 0.07s
+2025-05-25 02:14:40,112 - INFO - Worker 11: DOWNLOAD successful in 0.07s
+2025-05-25 02:14:40,113 - INFO - Worker 38: DOWNLOAD successful in 0.07s
+2025-05-25 02:14:40,114 - INFO - Worker 39: DOWNLOAD successful in 0.07s
+2025-05-25 02:14:40,114 - INFO - Worker 12: DOWNLOAD successful in 0.07s
+2025-05-25 02:14:40,115 - INFO - Worker 41: DOWNLOAD successful in 0.07s
+2025-05-25 02:14:40,116 - INFO - Worker 47: DOWNLOAD successful in 0.07s
+2025-05-25 02:14:40,117 - INFO - Worker 34: DOWNLOAD successful in 0.08s
+2025-05-25 02:14:40,118 - INFO - Worker 43: DOWNLOAD successful in 0.08s
+2025-05-25 02:14:40,119 - INFO - Worker 46: DOWNLOAD successful in 0.08s
+2025-05-25 02:14:40,119 - INFO - Worker 16: DOWNLOAD successful in 0.08s
+2025-05-25 02:14:40,258 - INFO - Worker 35: DOWNLOAD successful in 0.22s
+2025-05-25 02:14:41,097 - INFO - Worker 27: DOWNLOAD successful in 1.06s
+2025-05-25 02:14:41,098 - INFO - Worker 45: DOWNLOAD successful in 1.06s
+2025-05-25 02:14:41,098 - INFO - Worker 26: DOWNLOAD successful in 1.06s
+2025-05-25 02:14:41,305 - INFO - Worker 32: DOWNLOAD successful in 1.26s
+2025-05-25 02:14:42,129 - INFO - Worker 42: DOWNLOAD successful in 2.09s
+2025-05-25 02:14:42,129 - INFO - Worker 19: DOWNLOAD successful in 2.09s
+2025-05-25 02:14:42,130 - INFO - Worker 8: DOWNLOAD successful in 2.09s
+2025-05-25 02:14:42,130 - INFO - Worker 37: DOWNLOAD successful in 2.09s
+2025-05-25 02:14:42,130 - INFO - Worker 29: DOWNLOAD successful in 2.09s
+2025-05-25 02:14:42,131 - INFO - Worker 31: DOWNLOAD successful in 2.09s
+2025-05-25 02:14:42,131 - INFO - Worker 21: DOWNLOAD successful in 2.09s
+2025-05-25 02:14:42,131 - INFO - Worker 49: DOWNLOAD successful in 2.09s
+2025-05-25 02:14:42,329 - INFO - Worker 9: DOWNLOAD successful in 2.29s
+2025-05-25 02:14:42,352 - INFO - DOWNLOAD test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:14:42,887 - INFO - Worker 0: UPLOAD successful in 0.54s
+2025-05-25 02:14:42,893 - INFO - DOWNLOAD test_file_50MB starting...
+2025-05-25 02:14:42,913 - INFO - Worker 0: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:42,919 - INFO - DOWNLOAD test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:14:43,457 - INFO - Worker 0: UPLOAD successful in 0.54s
+2025-05-25 02:14:43,463 - INFO - DOWNLOAD test_file_50MB starting...
+2025-05-25 02:14:43,499 - INFO - Worker 3: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:43,500 - INFO - Worker 0: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:43,500 - INFO - Worker 1: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:43,501 - INFO - Worker 4: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:43,505 - INFO - Worker 2: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:43,512 - INFO - DOWNLOAD test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:14:44,052 - INFO - Worker 0: UPLOAD successful in 0.54s
+2025-05-25 02:14:44,058 - INFO - DOWNLOAD test_file_50MB starting...
+2025-05-25 02:14:44,104 - INFO - Worker 1: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:44,104 - INFO - Worker 8: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:44,104 - INFO - Worker 6: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:44,105 - INFO - Worker 7: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:44,107 - INFO - Worker 0: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:44,108 - INFO - Worker 9: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:44,109 - INFO - Worker 4: DOWNLOAD successful in 0.03s
+2025-05-25 02:14:44,305 - INFO - Worker 3: DOWNLOAD successful in 0.22s
+2025-05-25 02:14:45,129 - INFO - Worker 2: DOWNLOAD successful in 1.05s
+2025-05-25 02:14:45,132 - INFO - Worker 5: DOWNLOAD successful in 1.05s
+2025-05-25 02:14:45,146 - INFO - Worker 14: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:45,146 - INFO - Worker 11: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:45,146 - INFO - Worker 12: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:45,146 - INFO - Worker 10: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:45,147 - INFO - Worker 15: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:45,350 - INFO - Worker 13: DOWNLOAD successful in 0.22s
+2025-05-25 02:14:46,151 - INFO - Worker 18: DOWNLOAD successful in 1.02s
+2025-05-25 02:14:46,154 - INFO - Worker 16: DOWNLOAD successful in 1.02s
+2025-05-25 02:14:46,154 - INFO - Worker 17: DOWNLOAD successful in 1.02s
+2025-05-25 02:14:46,358 - INFO - Worker 19: DOWNLOAD successful in 1.22s
+2025-05-25 02:14:46,372 - INFO - Worker 20: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:46,373 - INFO - Worker 22: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:46,373 - INFO - Worker 27: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:46,377 - INFO - Worker 21: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:46,377 - INFO - Worker 25: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:46,377 - INFO - Worker 26: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:47,430 - INFO - Worker 28: DOWNLOAD successful in 1.07s
+2025-05-25 02:14:47,434 - INFO - Worker 23: DOWNLOAD successful in 1.08s
+2025-05-25 02:14:47,435 - INFO - Worker 24: DOWNLOAD successful in 1.08s
+2025-05-25 02:14:47,638 - INFO - Worker 29: DOWNLOAD successful in 1.28s
+2025-05-25 02:14:47,651 - INFO - Worker 32: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:47,651 - INFO - Worker 34: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:47,653 - INFO - Worker 30: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:47,654 - INFO - Worker 35: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:47,654 - INFO - Worker 31: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:48,711 - INFO - Worker 33: DOWNLOAD successful in 1.07s
+2025-05-25 02:14:48,712 - INFO - Worker 36: DOWNLOAD successful in 1.07s
+2025-05-25 02:14:48,713 - INFO - Worker 37: DOWNLOAD successful in 1.07s
+2025-05-25 02:14:48,921 - INFO - Worker 41: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:48,921 - INFO - Worker 48: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:48,926 - INFO - Worker 42: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:48,926 - INFO - Worker 40: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:48,926 - INFO - Worker 47: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:49,927 - INFO - Worker 49: DOWNLOAD successful in 1.02s
+2025-05-25 02:14:49,927 - INFO - Worker 45: DOWNLOAD successful in 1.02s
+2025-05-25 02:14:49,932 - INFO - Worker 43: DOWNLOAD successful in 1.02s
+2025-05-25 02:14:50,951 - INFO - Worker 44: DOWNLOAD successful in 2.04s
+2025-05-25 02:14:50,959 - INFO - DOWNLOAD test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:14:52,254 - INFO - Worker 0: UPLOAD successful in 1.30s
+2025-05-25 02:14:52,276 - INFO - DOWNLOAD test_file_100MB starting...
+2025-05-25 02:14:52,294 - INFO - Worker 0: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:52,300 - INFO - DOWNLOAD test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:14:53,597 - INFO - Worker 0: UPLOAD successful in 1.30s
+2025-05-25 02:14:53,618 - INFO - DOWNLOAD test_file_100MB starting...
+2025-05-25 02:14:53,652 - INFO - Worker 1: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:53,656 - INFO - Worker 0: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:53,657 - INFO - Worker 2: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:53,660 - INFO - Worker 3: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:54,666 - INFO - Worker 4: DOWNLOAD successful in 1.03s
+2025-05-25 02:14:54,673 - INFO - DOWNLOAD test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:14:55,964 - INFO - Worker 0: UPLOAD successful in 1.29s
+2025-05-25 02:14:55,986 - INFO - DOWNLOAD test_file_100MB starting...
+2025-05-25 02:14:56,035 - INFO - Worker 2: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:56,036 - INFO - Worker 4: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:56,037 - INFO - Worker 1: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:56,039 - INFO - Worker 6: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:56,041 - INFO - Worker 3: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:56,042 - INFO - Worker 0: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:57,034 - INFO - Worker 7: DOWNLOAD successful in 1.02s
+2025-05-25 02:14:57,036 - INFO - Worker 5: DOWNLOAD successful in 1.02s
+2025-05-25 02:14:57,036 - INFO - Worker 9: DOWNLOAD successful in 1.02s
+2025-05-25 02:14:57,240 - INFO - Worker 8: DOWNLOAD successful in 1.22s
+2025-05-25 02:14:57,258 - INFO - Worker 19: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:57,258 - INFO - Worker 16: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:57,258 - INFO - Worker 17: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:57,260 - INFO - Worker 12: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:57,260 - INFO - Worker 11: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:57,262 - INFO - Worker 18: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:57,265 - INFO - Worker 10: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:58,311 - INFO - Worker 14: DOWNLOAD successful in 1.07s
+2025-05-25 02:14:58,312 - INFO - Worker 13: DOWNLOAD successful in 1.07s
+2025-05-25 02:14:58,522 - INFO - Worker 21: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:58,522 - INFO - Worker 20: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:58,523 - INFO - Worker 22: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:58,525 - INFO - Worker 24: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:58,525 - INFO - Worker 25: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:59,529 - INFO - Worker 23: DOWNLOAD successful in 1.02s
+2025-05-25 02:14:59,530 - INFO - Worker 26: DOWNLOAD successful in 1.02s
+2025-05-25 02:14:59,531 - INFO - Worker 27: DOWNLOAD successful in 1.02s
+2025-05-25 02:14:59,531 - INFO - Worker 28: DOWNLOAD successful in 1.02s
+2025-05-25 02:14:59,533 - INFO - Worker 29: DOWNLOAD successful in 1.02s
+2025-05-25 02:14:59,548 - INFO - Worker 37: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:59,548 - INFO - Worker 35: DOWNLOAD successful in 0.01s
+2025-05-25 02:14:59,550 - INFO - Worker 30: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:59,552 - INFO - Worker 33: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:59,552 - INFO - Worker 32: DOWNLOAD successful in 0.02s
+2025-05-25 02:14:59,553 - INFO - Worker 31: DOWNLOAD successful in 0.02s
+2025-05-25 02:15:00,553 - INFO - Worker 38: DOWNLOAD successful in 1.02s
+2025-05-25 02:15:00,553 - INFO - Worker 34: DOWNLOAD successful in 1.02s
+2025-05-25 02:15:00,553 - INFO - Worker 39: DOWNLOAD successful in 1.02s
+2025-05-25 02:15:00,555 - INFO - Worker 36: DOWNLOAD successful in 1.02s
+2025-05-25 02:15:00,568 - INFO - Worker 40: DOWNLOAD successful in 0.01s
+2025-05-25 02:15:00,569 - INFO - Worker 42: DOWNLOAD successful in 0.01s
+2025-05-25 02:15:00,570 - INFO - Worker 46: DOWNLOAD successful in 0.01s
+2025-05-25 02:15:00,571 - INFO - Worker 49: DOWNLOAD successful in 0.02s
+2025-05-25 02:15:00,573 - INFO - Worker 44: DOWNLOAD successful in 0.02s
+2025-05-25 02:15:00,574 - INFO - Worker 41: DOWNLOAD successful in 0.02s
+2025-05-25 02:15:01,576 - INFO - Worker 48: DOWNLOAD successful in 1.02s
+2025-05-25 02:15:01,576 - INFO - Worker 45: DOWNLOAD successful in 1.02s
+2025-05-25 02:15:01,576 - INFO - Worker 47: DOWNLOAD successful in 1.02s
+2025-05-25 02:15:01,577 - INFO - Worker 43: DOWNLOAD successful in 1.02s
+2025-05-25 02:15:01,584 - INFO - DOWNLOAD test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:15:01,584 - INFO - LIST test_file_10MB starting...
+2025-05-25 02:15:01,589 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:15:01,593 - INFO - LIST test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:15:01,593 - INFO - LIST test_file_10MB starting...
+2025-05-25 02:15:01,609 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:15:01,610 - INFO - Worker 2: LIST successful in 0.00s
+2025-05-25 02:15:01,610 - INFO - Worker 1: LIST successful in 0.00s
+2025-05-25 02:15:02,654 - INFO - Worker 3: LIST successful in 1.05s
+2025-05-25 02:15:02,654 - INFO - Worker 4: LIST successful in 1.05s
+2025-05-25 02:15:02,661 - INFO - LIST test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:15:02,661 - INFO - LIST test_file_10MB starting...
+2025-05-25 02:15:02,776 - INFO - Worker 0: LIST successful in 0.01s
+2025-05-25 02:15:02,778 - INFO - Worker 1: LIST successful in 0.01s
+2025-05-25 02:15:02,779 - INFO - Worker 2: LIST successful in 0.01s
+2025-05-25 02:15:02,779 - INFO - Worker 3: LIST successful in 0.01s
+2025-05-25 02:15:02,779 - INFO - Worker 4: LIST successful in 0.01s
+2025-05-25 02:15:02,780 - INFO - Worker 5: LIST successful in 0.01s
+2025-05-25 02:15:02,780 - INFO - Worker 9: LIST successful in 0.01s
+2025-05-25 02:15:02,780 - INFO - Worker 14: LIST successful in 0.01s
+2025-05-25 02:15:02,780 - INFO - Worker 17: LIST successful in 0.01s
+2025-05-25 02:15:02,781 - INFO - Worker 22: LIST successful in 0.01s
+2025-05-25 02:15:02,781 - INFO - Worker 23: LIST successful in 0.01s
+2025-05-25 02:15:02,781 - INFO - Worker 24: LIST successful in 0.01s
+2025-05-25 02:15:02,782 - INFO - Worker 25: LIST successful in 0.01s
+2025-05-25 02:15:02,782 - INFO - Worker 26: LIST successful in 0.01s
+2025-05-25 02:15:02,782 - INFO - Worker 29: LIST successful in 0.01s
+2025-05-25 02:15:02,782 - INFO - Worker 31: LIST successful in 0.01s
+2025-05-25 02:15:02,783 - INFO - Worker 35: LIST successful in 0.01s
+2025-05-25 02:15:02,783 - INFO - Worker 36: LIST successful in 0.01s
+2025-05-25 02:15:02,783 - INFO - Worker 40: LIST successful in 0.01s
+2025-05-25 02:15:02,784 - INFO - Worker 42: LIST successful in 0.01s
+2025-05-25 02:15:02,784 - INFO - Worker 46: LIST successful in 0.01s
+2025-05-25 02:15:02,982 - INFO - Worker 16: LIST successful in 0.21s
+2025-05-25 02:15:03,806 - INFO - Worker 39: LIST successful in 1.03s
+2025-05-25 02:15:03,806 - INFO - Worker 12: LIST successful in 1.03s
+2025-05-25 02:15:03,806 - INFO - Worker 44: LIST successful in 1.03s
+2025-05-25 02:15:04,012 - ERROR - Worker 38: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:04,012 - ERROR - Worker 43: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:04,012 - ERROR - Worker 30: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:04,012 - ERROR - Worker 47: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:04,012 - ERROR - Worker 18: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:04,012 - ERROR - Worker 37: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:04,012 - ERROR - Worker 49: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:04,012 - ERROR - Worker 48: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:04,012 - ERROR - Worker 32: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:04,012 - ERROR - Worker 33: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:04,013 - ERROR - Worker 21: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:04,013 - ERROR - Worker 41: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:04,830 - INFO - Worker 10: LIST successful in 2.06s
+2025-05-25 02:15:04,831 - INFO - Worker 15: LIST successful in 2.06s
+2025-05-25 02:15:04,831 - INFO - Worker 28: LIST successful in 2.06s
+2025-05-25 02:15:05,036 - ERROR - Worker 19: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:05,036 - ERROR - Worker 27: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:05,036 - ERROR - Worker 34: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:05,036 - ERROR - Worker 20: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:05,036 - ERROR - Worker 6: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:05,036 - ERROR - Worker 7: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:05,036 - ERROR - Worker 11: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:05,036 - ERROR - Worker 45: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:05,036 - ERROR - Worker 13: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:05,036 - ERROR - Worker 8: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:05,057 - INFO - LIST test_file_10MB complete: 0 succeeded, 0 failed
+2025-05-25 02:15:05,058 - INFO - LIST test_file_50MB starting...
+2025-05-25 02:15:05,063 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:15:05,067 - INFO - LIST test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:15:05,067 - INFO - LIST test_file_50MB starting...
+2025-05-25 02:15:05,084 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:15:05,084 - INFO - Worker 1: LIST successful in 0.00s
+2025-05-25 02:15:05,084 - INFO - Worker 2: LIST successful in 0.00s
+2025-05-25 02:15:05,084 - INFO - Worker 3: LIST successful in 0.00s
+2025-05-25 02:15:05,084 - INFO - Worker 4: LIST successful in 0.00s
+2025-05-25 02:15:05,089 - INFO - LIST test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:15:05,089 - INFO - LIST test_file_50MB starting...
+2025-05-25 02:15:05,115 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:15:05,115 - INFO - Worker 2: LIST successful in 0.00s
+2025-05-25 02:15:05,115 - INFO - Worker 1: LIST successful in 0.00s
+2025-05-25 02:15:05,116 - INFO - Worker 5: LIST successful in 0.00s
+2025-05-25 02:15:05,116 - INFO - Worker 6: LIST successful in 0.00s
+2025-05-25 02:15:06,174 - INFO - Worker 7: LIST successful in 1.06s
+2025-05-25 02:15:06,174 - INFO - Worker 4: LIST successful in 1.06s
+2025-05-25 02:15:06,175 - INFO - Worker 9: LIST successful in 1.06s
+2025-05-25 02:15:06,381 - ERROR - Worker 8: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:06,381 - ERROR - Worker 3: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:06,385 - INFO - Worker 12: LIST successful in 0.00s
+2025-05-25 02:15:06,385 - INFO - Worker 10: LIST successful in 0.00s
+2025-05-25 02:15:06,385 - INFO - Worker 11: LIST successful in 0.00s
+2025-05-25 02:15:06,385 - INFO - Worker 14: LIST successful in 0.00s
+2025-05-25 02:15:06,386 - INFO - Worker 15: LIST successful in 0.00s
+2025-05-25 02:15:06,386 - INFO - Worker 16: LIST successful in 0.00s
+2025-05-25 02:15:06,386 - INFO - Worker 19: LIST successful in 0.00s
+2025-05-25 02:15:07,390 - INFO - Worker 13: LIST successful in 1.01s
+2025-05-25 02:15:07,390 - INFO - Worker 18: LIST successful in 1.01s
+2025-05-25 02:15:07,390 - INFO - Worker 17: LIST successful in 1.01s
+2025-05-25 02:15:07,393 - INFO - Worker 20: LIST successful in 0.00s
+2025-05-25 02:15:07,393 - INFO - Worker 21: LIST successful in 0.00s
+2025-05-25 02:15:07,393 - INFO - Worker 22: LIST successful in 0.00s
+2025-05-25 02:15:07,394 - INFO - Worker 24: LIST successful in 0.00s
+2025-05-25 02:15:07,394 - INFO - Worker 25: LIST successful in 0.00s
+2025-05-25 02:15:07,394 - INFO - Worker 27: LIST successful in 0.00s
+2025-05-25 02:15:07,395 - INFO - Worker 26: LIST successful in 0.00s
+2025-05-25 02:15:07,596 - ERROR - Worker 29: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:07,597 - INFO - Worker 28: LIST successful in 0.21s
+2025-05-25 02:15:08,414 - INFO - Worker 23: LIST successful in 1.02s
+2025-05-25 02:15:08,417 - INFO - Worker 30: LIST successful in 0.00s
+2025-05-25 02:15:08,418 - INFO - Worker 31: LIST successful in 0.00s
+2025-05-25 02:15:08,418 - INFO - Worker 32: LIST successful in 0.00s
+2025-05-25 02:15:08,418 - INFO - Worker 33: LIST successful in 0.00s
+2025-05-25 02:15:08,418 - INFO - Worker 34: LIST successful in 0.00s
+2025-05-25 02:15:08,419 - INFO - Worker 36: LIST successful in 0.00s
+2025-05-25 02:15:08,620 - ERROR - Worker 37: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:08,621 - INFO - Worker 35: LIST successful in 0.21s
+2025-05-25 02:15:09,438 - INFO - Worker 38: LIST successful in 1.02s
+2025-05-25 02:15:09,438 - INFO - Worker 39: LIST successful in 1.02s
+2025-05-25 02:15:09,441 - INFO - Worker 40: LIST successful in 0.00s
+2025-05-25 02:15:09,441 - INFO - Worker 41: LIST successful in 0.00s
+2025-05-25 02:15:09,441 - INFO - Worker 42: LIST successful in 0.00s
+2025-05-25 02:15:09,442 - INFO - Worker 43: LIST successful in 0.00s
+2025-05-25 02:15:09,442 - INFO - Worker 44: LIST successful in 0.00s
+2025-05-25 02:15:09,442 - INFO - Worker 45: LIST successful in 0.00s
+2025-05-25 02:15:10,462 - INFO - Worker 47: LIST successful in 1.02s
+2025-05-25 02:15:10,462 - INFO - Worker 46: LIST successful in 1.02s
+2025-05-25 02:15:10,462 - INFO - Worker 49: LIST successful in 1.02s
+2025-05-25 02:15:10,668 - ERROR - Worker 48: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:10,675 - INFO - LIST test_file_50MB complete: 0 succeeded, 0 failed
+2025-05-25 02:15:10,676 - INFO - LIST test_file_100MB starting...
+2025-05-25 02:15:10,680 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:15:10,685 - INFO - LIST test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:15:10,685 - INFO - LIST test_file_100MB starting...
+2025-05-25 02:15:10,699 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:15:10,700 - INFO - Worker 1: LIST successful in 0.00s
+2025-05-25 02:15:10,700 - INFO - Worker 2: LIST successful in 0.00s
+2025-05-25 02:15:10,700 - INFO - Worker 3: LIST successful in 0.00s
+2025-05-25 02:15:10,700 - INFO - Worker 4: LIST successful in 0.00s
+2025-05-25 02:15:10,704 - INFO - LIST test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:15:10,704 - INFO - LIST test_file_100MB starting...
+2025-05-25 02:15:10,731 - INFO - Worker 0: LIST successful in 0.00s
+2025-05-25 02:15:10,731 - INFO - Worker 1: LIST successful in 0.00s
+2025-05-25 02:15:10,732 - INFO - Worker 5: LIST successful in 0.00s
+2025-05-25 02:15:10,732 - INFO - Worker 8: LIST successful in 0.00s
+2025-05-25 02:15:10,732 - INFO - Worker 9: LIST successful in 0.00s
+2025-05-25 02:15:11,742 - INFO - Worker 2: LIST successful in 1.01s
+2025-05-25 02:15:11,742 - INFO - Worker 4: LIST successful in 1.01s
+2025-05-25 02:15:11,742 - INFO - Worker 6: LIST successful in 1.01s
+2025-05-25 02:15:11,949 - ERROR - Worker 3: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:11,949 - INFO - Worker 7: LIST successful in 1.22s
+2025-05-25 02:15:11,953 - INFO - Worker 10: LIST successful in 0.00s
+2025-05-25 02:15:11,953 - INFO - Worker 11: LIST successful in 0.00s
+2025-05-25 02:15:11,953 - INFO - Worker 12: LIST successful in 0.00s
+2025-05-25 02:15:11,953 - INFO - Worker 13: LIST successful in 0.00s
+2025-05-25 02:15:11,954 - INFO - Worker 14: LIST successful in 0.00s
+2025-05-25 02:15:11,954 - INFO - Worker 16: LIST successful in 0.00s
+2025-05-25 02:15:11,954 - INFO - Worker 15: LIST successful in 0.00s
+2025-05-25 02:15:12,958 - INFO - Worker 17: LIST successful in 1.01s
+2025-05-25 02:15:12,958 - INFO - Worker 19: LIST successful in 1.01s
+2025-05-25 02:15:12,958 - INFO - Worker 18: LIST successful in 1.01s
+2025-05-25 02:15:12,961 - INFO - Worker 20: LIST successful in 0.00s
+2025-05-25 02:15:12,961 - INFO - Worker 21: LIST successful in 0.00s
+2025-05-25 02:15:12,961 - INFO - Worker 22: LIST successful in 0.00s
+2025-05-25 02:15:12,961 - INFO - Worker 25: LIST successful in 0.00s
+2025-05-25 02:15:12,962 - INFO - Worker 28: LIST successful in 0.00s
+2025-05-25 02:15:13,166 - INFO - Worker 26: LIST successful in 0.21s
+2025-05-25 02:15:13,166 - INFO - Worker 27: LIST successful in 0.21s
+2025-05-25 02:15:13,982 - INFO - Worker 23: LIST successful in 1.02s
+2025-05-25 02:15:13,982 - INFO - Worker 29: LIST successful in 1.02s
+2025-05-25 02:15:13,982 - INFO - Worker 24: LIST successful in 1.02s
+2025-05-25 02:15:13,985 - INFO - Worker 30: LIST successful in 0.00s
+2025-05-25 02:15:13,985 - INFO - Worker 32: LIST successful in 0.00s
+2025-05-25 02:15:13,985 - INFO - Worker 33: LIST successful in 0.00s
+2025-05-25 02:15:13,985 - INFO - Worker 34: LIST successful in 0.00s
+2025-05-25 02:15:13,986 - INFO - Worker 35: LIST successful in 0.00s
+2025-05-25 02:15:13,986 - INFO - Worker 36: LIST successful in 0.00s
+2025-05-25 02:15:14,189 - INFO - Worker 37: LIST successful in 0.21s
+2025-05-25 02:15:15,006 - INFO - Worker 31: LIST successful in 1.02s
+2025-05-25 02:15:15,006 - INFO - Worker 38: LIST successful in 1.02s
+2025-05-25 02:15:15,006 - INFO - Worker 39: LIST successful in 1.02s
+2025-05-25 02:15:15,009 - INFO - Worker 40: LIST successful in 0.00s
+2025-05-25 02:15:15,009 - INFO - Worker 41: LIST successful in 0.00s
+2025-05-25 02:15:15,009 - INFO - Worker 42: LIST successful in 0.00s
+2025-05-25 02:15:15,010 - INFO - Worker 44: LIST successful in 0.00s
+2025-05-25 02:15:15,010 - INFO - Worker 46: LIST successful in 0.00s
+2025-05-25 02:15:15,010 - INFO - Worker 48: LIST successful in 0.00s
+2025-05-25 02:15:16,030 - INFO - Worker 49: LIST successful in 1.02s
+2025-05-25 02:15:16,030 - INFO - Worker 43: LIST successful in 1.02s
+2025-05-25 02:15:16,030 - INFO - Worker 47: LIST successful in 1.02s
+2025-05-25 02:15:16,236 - ERROR - Worker 45: LIST failed: [Errno 104] Connection reset by peer
+2025-05-25 02:15:16,244 - INFO - LIST test_file_100MB complete: 0 succeeded, 0 failed
+2025-05-25 02:15:16,244 - INFO - Results saved to stress_test_results_20250525-021516.csv
